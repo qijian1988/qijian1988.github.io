@@ -1,4 +1,4 @@
-var num=0;
+		var num=0;
 		var x=0;
 		var y=0;
 		//创建构造函数

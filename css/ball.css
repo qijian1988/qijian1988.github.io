@@ -1,12 +1,14 @@
 *{margin:0;padding:0;}
-html body{
+body{overflow: hidden;}
+#wrap{
+	width: 100%
+	height: 100%;
+}
+#wrapImg{
+	position: absolute;
 	width: 100%;
 	height: 100%;
-	overflow: hidden;
-}
-body{
-	background:url(../img/5.png) no-repeat; 
-	background-size:cover;
+	z-index: -10;
 }
 #bg{
 	position: relative;

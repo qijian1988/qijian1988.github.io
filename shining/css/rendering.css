@@ -1,0 +1,221 @@
+/*标签样式初始化*/
+			body{margin:0;padding:0;background:#fff;font-size:14px;font-family:Arial,Helvetica,'STHeiti','Microsoft YaHei','sans-serif'}
+			form,ul,li,p,h1,h2,h3,h4,h5,h6{margin:0;padding:0;}
+			img{border:0;}
+			ul,li{list-style-type:none;}
+			a{color:#00007F;text-decoration:none;}
+			a:hover{text-decoration:none;}
+			/*自定义样式*/
+			#all-con{
+				position: relative;
+			}
+			/*顶部导航栏*/
+			#nav{
+				width: 100%;
+				height: 65px;
+				background: black;
+				box-shadow:0 5px 5px #ccc;
+			}
+			#nav-bar{
+				position: relative;
+				width: 1200px;
+				height: 65px;
+				margin: 0 auto;
+				line-height: 65px;
+			}
+			#nav-list{
+				float:right;
+			}
+			#nav-list li{
+				float:left;
+			}
+			#nav-list li a{
+				color:#a8a8a8;
+				margin:0 20px;
+				font-size:16px;
+			}
+			#push-down{
+				position: absolute;
+				right:10px;
+				top:17px;
+				width: 30px;
+				height: 30px;
+				float:right;
+				display: none;
+				cursor: pointer;
+			}
+			#down-list{
+				position: relative;
+				width: 100%;
+				text-align: center;
+				display: none;
+				z-index: 10;
+			}
+			#down-list li{
+				background: #333;
+				border-bottom:1px solid #ccc;
+			}
+			#down-list li:last-child{
+				border:none;
+			}
+			#down-list li a{
+				color:white;
+				font-size:18px;
+			}
+			/*轮播图*/
+			#wrap{
+				width: 100%;
+				position: relative;
+			}
+			#wrapImg img{
+				width: 100%;
+				display: none;
+			}
+			#wrapImg img:first-child{
+				display: block;
+			}
+			#dot{
+				position: absolute;
+				bottom:0;
+				display: flex;
+				justify-content: space-between;
+				align-items:center;
+				width: 80px;
+				height: 20px;
+				left:50%;
+				transform: translateY(-50%);
+			}
+			#dot li{
+				width: 10px;
+				height: 10px;
+				margin:0 5px;
+				border-radius:50%;
+				background: white;
+			}
+			#dot li:first-child{
+				background: red;
+			}
+			/*内容栏*/
+			#content{
+				margin:20px;
+				overflow: hidden;
+			}
+			#content ul{
+				float:left;
+				width: 24%;
+				margin:0.5%;
+			}
+			#content ul li{
+				position: relative;
+				margin-bottom:5%;
+				width: 100%;
+				box-shadow:0 0 10px #ccc;
+				overflow: hidden;
+			}
+			#content ul li:hover a img{
+				transform: scale(1.2);
+			}
+			#content ul li a img{
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				box-sizing:border-box;
+				border:7px solid white;
+				transition: all 1s;
+			}
+			#min-mask{
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				box-sizing:border-box;
+				background: rgba(21, 20, 20, 0.47);
+				display: none;
+				cursor:pointer;
+			}
+			#min-mask img{
+				position: absolute;
+				width: 10%;
+				left:50%;
+				top:50%;
+				transform:translate(-50%,-50%);
+			}
+			/*图片放大图出现在蒙版上*/
+			#max-mask{
+				position: fixed;
+				width: 100%;
+				height: 100%;
+				background: rgba(21, 20, 20, 0.7);
+				display: none;
+				z-index: 100;
+			}
+			#max-mask img{
+				position: absolute;
+				left:50%;
+				top:50%;
+				transform:translate(-50%,-50%);
+				border:10px solid white;
+				border-bottom:20px solid white;
+				box-shadow:0 0 10px white;
+			}
+			/*底部栏*/
+			#footer{
+				width: 100%;
+				margin:30px auto;
+				position: relative;
+				text-align: center;
+			}
+			#mail{
+				display: block;
+				width: 25px;
+				height: 25px;
+				margin: 10px auto;
+			}
+			#footer-bot{
+				height: 25px;
+				width: 120px;
+				margin:0 auto;
+				display: flex;
+				justify-content: space-between;
+			}
+			#mail img,#facebook img,#youtobe img,#link img,#twitter img{
+				position: absolute;
+			}
+			#mail img{
+				width: 25px;
+				height: 25px;
+			}
+			#facebook img,#youtobe img,#link img,#twitter img{
+				width: 25px;
+				height: 25px;
+			}
+			#footer ul li a img:last-child{
+				display: none;
+			}
+			#footer span{
+				display: block;
+				margin-top:20px;
+				color:#666;
+			}
+			@media screen and (min-width:850px) and (max-width:1200px) {
+				#nav-bar{
+					width: 100%;
+				}
+			}
+			@media  screen and (max-width:850px) {
+				#nav-bar{
+					width: 100%;
+				}
+				#push-down{
+					display: block;
+				}
+				#nav-list{
+					display: none;
+				}
+			}
+			@media screen and (max-width:490px ) {
+				
+				#content ul{
+					width: 48%;
+					margin:0 1%;
+				}
+			}

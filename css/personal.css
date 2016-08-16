@@ -1,0 +1,159 @@
+		/*标签样式初始化*/
+		body{margin:0;padding:0;background:#fff;font-size:14px;font-family:'Microsoft YaHei',Arial,Helvetica,'STHeiti','sans-serif'}
+		form,ul,li,p,h1,h2,h3,h4,h5,h6{margin:0;padding:0;}
+		img{border:0;}
+		ul,li{list-style-type:none;}
+		a{color:#00007F;text-decoration:none;}
+		a:hover{text-decoration:none;}
+		/*自定义样式*/
+		html,body{
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+		}
+		/*访问界面*/
+		#max-mask{
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background: rgba(0, 0, 0, 0.98);
+			z-index: 20;
+		}
+		#max-mask div{
+			position: absolute;
+			top:50%;
+			left:50%;
+			margin-left: -200px;
+			margin-top:-107px;
+			width: 400px;
+			height: 215px;
+			background: white;
+			border-radius:15px;
+			text-align: center;
+			box-shadow: 0 0 5px #03a9f4;
+		}
+		#max-mask div p{
+			font-size:23px;
+			width: 100%;
+			height: 40px;
+			background: rgba(3, 169, 244, 0.79);
+			text-align: center;
+			line-height: 40px;
+			margin-bottom: 40px;
+			border-top-left-radius: 15px;
+			border-top-right-radius: 15px;
+			color:white;
+		}
+		#text{
+			width: 250px;
+			height: 25px;
+			outline: none;
+			font-size:16px;
+			line-height: 30px;
+		}
+		#btn{
+			outline: none;
+			display: block;
+			width: 70px;
+			height: 30px;
+			margin:30px auto;
+			background: #ccc;
+			font-size:16px;
+			border-radius:10px;
+		}
+		#btn:hover{
+			background: rgba(3, 169, 244, 0.79);
+			color:white;
+			cursor:pointer;
+		}
+		/*内容栏*/
+		#wrap{
+			position: relative;
+			width: 100%;
+			height: 100%;
+			background: #348cb2;
+		}
+		/*蒙版*/
+		#mask{
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background: url(../img/2.svg);
+			background-size:cover ;
+			z-index: 1;
+		}
+		/*视频播放栏*/
+		#play{
+			position: absolute;
+			top:100px;
+			left:50%;
+			width: 600px;
+			height: 350px;
+			margin-left:-300px;
+			z-index: 1;
+			background: url(../img/video-bg.png) no-repeat;
+			background-size:cover;
+		}
+		#play img{
+			width: 80px;
+			height: 80px;
+			position: absolute;
+			left:50%;
+			top:50%;
+			transform: translate(-50%,-50%);
+		}
+		#play-h{
+			display: none;
+		}
+		#play canvas{
+			box-shadow: 0 0 10px black;
+		}
+		/*联系方式栏*/
+		#contact{
+			padding-top:600px;
+			width: 800px;
+			margin:0 auto;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
+		#contact li{
+			position: relative;
+			width: 110px;
+			height: 110px;
+			margin:0 40px;
+			text-align: center;
+			overflow: hidden;
+			z-index: 10;
+			background: bisque;
+			border-radius:30px;
+			box-shadow: 0 0 20px black;
+		}
+		#contact li a{
+			position: absolute;
+			top:0;
+			display: inline-block;
+			width: 100px;
+			height: 100px;
+			z-index: 10;
+			padding-top:3px;
+			left:50%;
+			margin-left:-50px;
+		}
+		#contact li img{
+			width: 100px;
+			height: 100px;
+			margin:2px 0;
+		}
+		/*底部栏*/
+		#bottom{
+			position: absolute;	
+			bottom: -5px;	
+			z-index: 0;
+		}
+		#bot-img-1,#bot-img-2{
+			float: left;
+		}
+		#bottom img{
+			width: 100%;
+		}

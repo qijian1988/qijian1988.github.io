@@ -4,6 +4,9 @@
 			color:'rgba(3, 169, 244, 0.79)',
 		})
 	})
+	$('#btn').click(function(){
+		$('#max-mask').hide('slow');
+	})
 	//画布视频播放
 	var canvas=document.querySelector('#play canvas');
 	var context=canvas.getContext('2d');
@@ -44,12 +47,12 @@
 			$('a',$(this)).stop().animate({
 				top:-105,
 			},'slow')
-		})	
+		})
 		$(this).mouseout(function(){
 			$('a',$(this)).stop().animate({
 				top:0,
 			},'slow')
-		})	
+		})
 	})
 	//底部背景图片轮播
 	$(window).resize(function(){

@@ -19,7 +19,7 @@
 			background: rgba(0, 0, 0, 0.98);
 			z-index: 20;
 		}
-		#max-mask div{
+		#load{
 			position: absolute;
 			top:50%;
 			left:50%;
@@ -32,7 +32,7 @@
 			text-align: center;
 			box-shadow: 0 0 5px #03a9f4;
 		}
-		#max-mask div p{
+		#load p{
 			font-size:23px;
 			width: 100%;
 			height: 40px;
@@ -65,6 +65,34 @@
 			background: rgba(3, 169, 244, 0.79);
 			color:white;
 			cursor:pointer;
+		}
+		#introduce{
+			position: absolute;
+			right:50%;
+			top:50%;
+			margin-right: -200px;
+			margin-top:-107px;
+			width: 400px;
+			height: 215px;
+			background: white;
+			border-radius:15px;
+			display: none;
+		}
+		#introduce h2{
+			height: 40px;
+			border-top-left-radius: 15px;
+			border-top-right-radius: 15px;
+			background: rgba(3, 169, 244, 0.79);
+			line-height: 40px;
+			text-align: center;
+			color:white;
+		}
+		#introduce p{
+			padding:10px 20px;
+			text-align: left;
+			text-indent: 2em;
+			font-size:20px;
+			line-height: 25px;
 		}
 		/*内容栏*/
 		#wrap{
@@ -147,8 +175,8 @@
 		}
 		/*底部栏*/
 		#bottom{
-			position: absolute;	
-			bottom: -5px;	
+			position: absolute;
+			bottom: -5px;
 			z-index: 0;
 		}
 		#bot-img-1,#bot-img-2{

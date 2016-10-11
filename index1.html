@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+		<link rel="stylesheet" type="text/css" href="css/personal.css"/>
+	</head>
+	<body>
+		<!--访问界面-->
+		<div id="max-mask">
+			<audio src="音频/Oliver Scheffner - A Summer Of Joy.mp3" autoplay="autoplay"></audio>
+			<div id="introduce">
+				<h2>About Me</h2>
+				<p>Welcome to my space!My research interests are at the intersection of social theory, cultural sociology, and political sociology. I am particularly interested in collective memory, cultural sociology of civic life, disaster research, symbolic politics, and social movements.</p>
+			</div>
+			<div id="load" class="animated zoomIn">
+				<p>登 录</p>
+				<input type="text" name="text" id="text" value="" placeholder="请输入..." />
+				<input type="button" name="btn" id="btn" value="提交" />
+			</div>
+		</div>
+		<!--内容栏-->
+		<div id="wrap">
+			<!--蒙版-->
+			<div id="mask"></div>
+			<!--视频播放栏-->
+			<div id="play">
+				<img id="play-s" src="img/播放.svg"/>
+				<img id="play-h" src="img/暂停.svg" alt="" />
+				<video style="display: none;">
+					<source src="音频/reality.mp4"></source>
+				</video>
+				<canvas id="canvas" width="600" height="350">
+					你的浏览器不支持,请升级浏览器.
+				</canvas>
+			</div>
+			<!--联系方式栏-->
+			<ul id="contact">
+				<li>
+					<a href="#">
+						<img src="img/qq.svg" alt="" />
+						<img src="img/QQ (1).svg" alt="QQ" />
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="img/微信 (1).svg"/>
+						<img src="img/微信.svg"/>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="img/手机.svg"/>
+						<img src="img/手机 (1).svg"/>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="img/facebook.svg"/>
+						<img src="img/facebook (1).svg"/>
+					</a>
+				</li>
+			</ul>
+			<!--底部栏-->
+			<ul id="bottom">
+				<li id="bot-img-1">
+					<img src="img/2Q==.jpg" alt="背景图片" />
+				</li>
+				<li id="bot-img-2">
+					<img src="img/2Q==.jpg" alt="背景图片" />
+				</li>
+			</div>
+		</div>
+	</body>
+	<script src="js/jquery-3.1.0.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/personal.js" type="text/javascript" charset="utf-8"></script>
+
+</html>

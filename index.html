@@ -1,47 +1,159 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8" />
-		<title></title>
+		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>主页</title>
+		<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+		<!-- Bootstrap -->
+		<!-- 新 Bootstrap 核心 CSS 文件 -->
+		<!--<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">-->
+		<!-- 可选的Bootstrap主题文件（一般不用引入） -->
+		<!--<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"-->
+		<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+		<!--<script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>-->
+		<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+		<!--<script src="http://cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
 		<link rel="stylesheet" type="text/css" href="css/animate.css"/>
-		<link rel="stylesheet" type="text/css" href="css/personal.css"/>
+		<link rel="stylesheet" type="text/css" href="css/person.css"/>
 	</head>
 	<body>
-		<!--访问界面-->
-		<div id="max-mask">
-			<audio src="音频/Oliver Scheffner - A Summer Of Joy.mp3" autoplay="autoplay"></audio>
-			<div class="animated zoomIn">
-				<p>登 录</p>
-				<input type="text" name="text" id="text" value="" placeholder="请输入..." />
-				<input type="button" name="btn" id="btn" value="提交" />
+		<!--标题栏-->
+		<div id="head-con">
+			<div id="head">
+				<div id="wrap">
+					<p>Believer</p>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Show</a></li>
+						<li><a href="#">Article</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+					<div class="btn out">
+						<span></span>
+						<span></span>
+					</div>
+				</div>
 			</div>
-			<!--<div id="about-me">
-				<p>About me</p>
-				<p></p>
-			</div>-->
 		</div>
-		<!--内容栏-->
-		<div id="wrap">
-			<!--蒙版-->
-			<div id="mask"></div>
-			<!--视频播放栏-->
-			<div id="play">
-				<img id="play-s" src="img/播放.svg"/>
-				<img id="play-h" src="img/暂停.svg" alt="" />
-				<video style="display: none;">
-					<source src="音频/reality.mp4"></source>
-				</video>
-				<canvas id="canvas" width="600" height="350">
-					你的浏览器不支持,请升级浏览器.
-				</canvas>
-			</div>
+		<!--隐藏列表栏-->
+		<div id="con-list">
+			<div><a href="#">Home</a></div>
+			<div><a href="#">Show</a></div>
+			<div><a href="#">Article</a></div>
+			<div><a href="#" style="border:none">Contact</a></div>
+		</div>
+		<!--轮播栏-->
+		<div id="nav">
+			<ul>
+				<li>
+					<div id="mask"></div>
+					<img src="img/1.jpg"/>
+					<div class="nav-con">
+						<p class="above"></p>
+						<a href="#">ABOUT A WEB DESIGNER</a>
+						<p class="bot"></p>
+						<p class="nav-content">WANT TO BE A NIUBILITY DESIGNER,HOW TO DO IT?</p>
+					</div>
+				</li>
+				<li>
+					<div id="mask"></div>
+					<img src="img/3.jpg"/>
+					<div class="nav-con">
+						<p class="above"></p>
+						<a href="#">WORKS SHOW</a>
+						<p class="bot"></p>
+						<p class="nav-content">SOME WORKS WILL BE SHOWED,HERE WE GO!</p>
+					</div>
+				</li>
+				<li>
+					<div id="mask"></div>
+					<img src="img/2.jpg"/>
+					<div class="nav-con">
+						<p class="above"></p>
+						<a href="#">ARTICLES DURING WORKING</a>
+						<p class="bot"></p>
+						<p class="nav-content">KNOWLEDGE ABOUT HOW TO BE A CREATIVE DESIGNER</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<!--show栏-->
+		<div id="show">
+			<h2>ABOUT ME</h2>
+			<p id="intro">Welcome to my space!My research interests are at the intersection of social theory, cultural sociology, and political sociology. I am particularly interested in collective memory, cultural sociology of civic life, disaster research, symbolic politics, and social movements.
+			</p>
+			<h2>WORKS</h2>
+			<ul>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-1.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-2.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-3.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-4.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-5.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-6.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-7.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+				<li>
+					<a href="#" class="pic"><img src="img/pic-8.jpg"/></a>
+					<!--<a href="#" class="scale"><img src="img/放大镜.svg"/></a>-->
+				</li>
+			</ul>
+		</div>
+		<!--article栏-->
+		<div id="article">
+			<h2>ARTICLES</h2>
+			<ul>
+				<li>
+					<h3>HTML5</h3>
+					<h4>Transform详解</h4>
+					<p>Transform 字面上就是变形，改变的意思。在 CSS3 中 transform 主要包括以下几种： 旋转rotate 、 扭曲skew 、 缩放scale 和 移动translate 以及 矩阵变形matrix 。下面我们一起来看看CSS3中transform的旋转rotate、扭曲skew、缩放scale和移动translate具体如何实现，老样子，我们就从 transform 的语法开始吧。
+					<a href="#">了解更多</a>
+					</p>
+				</li>
+				<li>
+					<h3>JavaScript</h3>
+					<h4>Transform详解</h4>
+					<p>Transform 字面上就是变形，改变的意思。在 CSS3 中 transform 主要包括以下几种： 旋转rotate 、 扭曲skew 、 缩放scale 和 移动translate 以及 矩阵变形matrix 。下面我们一起来看看CSS3中transform的旋转rotate、扭曲skew、缩放scale和移动translate具体如何实现，老样子，我们就从 transform 的语法开始吧。
+					<a href="#">了解更多</a>
+					</p>
+				</li>
+				<li>
+					<h3>PHP</h3>
+					<h4>Transform详解</h4>
+					<p>Transform 字面上就是变形，改变的意思。在 CSS3 中 transform 主要包括以下几种： 旋转rotate 、 扭曲skew 、 缩放scale 和 移动translate 以及 矩阵变形matrix 。下面我们一起来看看CSS3中transform的旋转rotate、扭曲skew、缩放scale和移动translate具体如何实现，老样子，我们就从 transform 的语法开始吧。
+					<a href="#">了解更多</a>
+					</p>
+				</li>
+			</ul>
+		</div>
+		<!--底部栏-->
+		<div id="footer">
 			<!--联系方式栏-->
+			<h2>CONTACT ME</h2>
 			<ul id="contact">
 				<li>
 					<a href="#">
-						<img src="img/QQ.svg" alt="" />
+						<img src="img/qq.svg" alt="" />
 						<img src="img/QQ (1).svg" alt="QQ" />
 					</a>
 				</li>
@@ -64,17 +176,15 @@
 					</a>
 				</li>
 			</ul>
-			<!--底部栏-->
-			<ul id="bottom">
-				<li id="bot-img-1">
+			<!--底部轮播-->
+			<div id="footer-bot">
+				<div id="bottom">
 					<img src="img/2Q==.jpg" alt="背景图片" />
-				</li>
-				<li id="bot-img-2">
 					<img src="img/2Q==.jpg" alt="背景图片" />
-				</li>
+				</div>
 			</div>
 		</div>
 	</body>
-	<script src="js/jquery-3.1.0.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="js/personal.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/jquery-3.1.0.min.js"></script>
+	<script src="js/person.js"></script>
 </html>

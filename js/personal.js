@@ -1,11 +1,19 @@
 	//蒙版动画
-	$('#btn').hover(function(){
-		this.css({
-			color:'rgba(3, 169, 244, 0.79)',
-		})
-	})
 	$('#btn').click(function(){
-		$('#max-mask').hide('slow');
+		// $('#max-mask').slideUp('slow');
+		$('#max-mask').animate({
+			top:'-100%',
+		},800);
+
+	})
+	$('#text').focus(function(){
+		$('#introduce').show();
+		$('#introduce').animate({
+			top:'40%',
+			right:'20%',
+			width:300,
+			height:400,
+		},800)
 	})
 	//画布视频播放
 	var canvas=document.querySelector('#play canvas');

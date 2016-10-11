@@ -1,0 +1,67 @@
+#age1-v1,#age2-v8,#age1-v15 {
+	background: url(../img/y/1.jpg) no-repeat center;
+	background-size: cover;
+}
+
+#age1-v2,#age2-v7,#age1-v14,#age2-v9,#age1-v16 {
+	background: url(../img/y/2.jpg)  no-repeat center;
+	background-size: cover;
+}
+
+#age1-v3,#age2-v6,#age1-v13,#age2-v10 {
+	background: url(../img/y/3.jpg)  no-repeat center;
+	background-size: cover;
+}
+
+#age1-v4,#age2-v5,#age1-v12,#age2-v11 {
+	background: url(../img/y/4.jpg)  no-repeat center;
+	background-size: cover;
+}
+
+#age1-v5,#age2-v4,#age1-v11,#age2-v12 {
+	background: url(../img/y/5.jpg)  no-repeat center;
+	background-size: cover;
+}
+
+#age1-v6,#age2-v3,#age1-v10,#age2-v13 {
+	background: url(../img/y/6.jpg)  no-repeat center;
+	background-size: cover;
+}
+
+#age1-v7,#age2-v2,#age1-v9,#age2-v14{
+	background: url(../img/y/7.jpg)  no-repeat center;
+	background-size: cover;
+}
+
+#age1-v8,#age2-v1,#age2-v15,#age2-v16{
+	background: url(../img/y/8.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.age-dh {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*action*/
+
+#action{
+	width: 238px;
+	height: 48px;
+	position: absolute;
+	background: url(../img/y/leave.png);
+	top: 850px;
+	left: 201px;
+	display: none;
+	opacity: 0;
+	-webkit-animation:action 1.5s infinite forwards ease-in-out;
+}
+@-webkit-keyframes action {
+	to {
+		opacity: 1;
+	}
+}

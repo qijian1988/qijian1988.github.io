@@ -1,0 +1,125 @@
+/*scene1*/
+#scene1 {
+	background: url(../img/wj_father.jpg) no-repeat center;
+	background-size: cover;
+}
+
+.wj_father_pic {
+	width: 160px;
+	height: 32px;
+	position: absolute;
+	top: 495px;
+	left: 97px;
+}
+
+.go .textanimation {
+	-webkit-animation: openDoor 4s infinite linear;
+	opacity: 0;
+}
+
+@-webkit-keyframes openDoor {
+	0% {
+		-webkit-transform: scale(1);
+		opacity: 0.2;
+	}
+	25% {
+		-webkit-transform: scale(1.1);
+		opacity: 1;
+	}
+	50% {
+		-webkit-transform: scale(1);
+		opacity: 0.2;
+	}
+	75% {
+		-webkit-transform: scale(1.1);
+		opacity: 1;
+	}
+	100% {
+		-webkit-transform: scale(1);
+		opacity: 0.2;
+	}
+}
+
+/*scene2*/
+
+#scene2 {
+	background: url(../img/wj_last.jpg) no-repeat center;
+	background-size: cover;
+	-webkit-animation:Go 3s ease-in-out forwards;
+}
+
+@-webkit-keyframes Go{
+	to{
+		-webkit-transform: scale(1.5);
+	}
+}
+
+#last_logo {
+	position: absolute;
+	top: 50px;
+	right: 0px;
+	opacity: 0;
+}
+
+#last_text {
+	width: 640px;
+	height: 50%;
+	padding-top:50px;
+	background: rgba(0, 0, 0, 0.3);
+	position: absolute;
+	left: 50%;
+	bottom:0;
+	margin-left: -320px;
+	text-align:center;
+	display: none;
+	z-index: 100;
+}
+
+#last_text p{
+	font-size:30px;
+	color:white;
+	margin:30px auto;
+	opacity: 0;
+    font-family: '兰亭黑-简';
+}
+.father-day{
+	font-size:35px;
+}
+#last_text span{
+	font-size: 30px;
+    margin: 20px 50px;
+    background: rgba(158, 158, 158, 0.43);
+    border-radius: 10px;
+    padding: 10px;
+}
+#last_text p:last-child{
+	margin-top:50px;
+}
+
+.left_btn,.right_btn{
+	cursor: pointer;
+}
+
+.grayDiv {
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .7);
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 150;
+}
+.share{
+	position: absolute;
+	right:20px;
+	top:50px;
+	width: 45px;
+	height: 59px;
+	background:url(../img/share_right.png) 570px 50px no-repeat;
+	background-size: cover;
+	-webkit-animation: arrow 1s infinite alternate ease-in;
+}
+@-webkit-keyframes arrow {
+	to {-webkit-transform:translateY(-30px)}
+}

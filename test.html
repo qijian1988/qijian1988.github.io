@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>test</title>
+	<style>
+		*{margin:0;padding:0;}
+		ul{overflow: hidden;}
+		li{
+			list-style: none;
+			float:left;
+			width: 50px;
+			height: 30px;
+			line-height: 30px;
+			font-size:20px;
+			text-align:center;
+			background:  #eee;
+			margin-right: 2px;
+		}
+		#container div{
+			position: absolute;
+			background: #ccc;
+			width: 154px;
+			height: 154px;
+			font-size:40px;
+			line-height: 150px;
+			text-align: center;
+		}
+		#container{
+			width: 140px;
+			height: 200px;
+			border:1px solid black;
+			overflow-x: scroll;
+			overflow-y: hidden;
+			position: relative;
+		}
+	</style>
+</head>
+<body>
+	<div id="container">
+		<p>距2018年还有:</p>
+		<ul>
+			<li>1</li>
+			<li>2</li>
+			<li>3</li>
+		</ul>
+		<div>BOX1</div>
+		<div>BOX2</div>
+		<div>BOX3</div>
+	</div>
+</body>
+<script>
+	// var con = document.querySelector('#container');
+	var p = document.querySelector('p');
+	var lastdate = new Date(2018,0,1);
+	setInterval(function(){
+		var currentDate = new Date();
+		var remainTime = lastdate - currentDate;
+		var Day = parseInt(remainTime/1000/60/60/24);
+		var Hour = parseInt(remainTime/1000/60/60%24);
+		var Min = parseInt(remainTime/1000/60%60);
+		var Sec = parseInt(remainTime/1000%60);
+		p.innerHTML ='距2018年还有:' + Day + '天' + Hour + '小时' + Min + '分' + Sec + '秒';
+	},100)
+
+	var oDiv = document.querySelectorAll('div');
+	var lis = document.querySelectorAll('li');
+	for(var i = 0 ;i < lis.length; i ++){
+		lis[i].index = i;
+		lis[i].onmouseover = function(){
+			for(var j = 0 ; j < oDiv.length; j ++){
+				oDiv[j].style.display = 'none';
+			}
+			oDiv[this.index].style.display = 'block';
+		}
+	}
+</script>
+</html>
+
+
+
+
+
+
+
+
+

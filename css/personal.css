@@ -11,6 +11,7 @@
 			height: 100%;
 			overflow: hidden;
 		}
+		
 		/*访问界面*/
 		#max-mask{
 			position: absolute;
@@ -59,7 +60,7 @@
 			margin:30px auto;
 			background: #ccc;
 			font-size:16px;
-			border-radius:10px;
+			border-radius:5px;
 		}
 		#btn:hover{
 			background: rgba(3, 169, 244, 0.79);
@@ -129,6 +130,7 @@
 			left:50%;
 			top:50%;
 			transform: translate(-50%,-50%);
+			/*-webkit-transition:all .3s ease;*/
 		}
 		#play-h{
 			display: none;

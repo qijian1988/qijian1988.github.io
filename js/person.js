@@ -1,3 +1,10 @@
+$('.tab').mouseover(function() {
+	$(this).css({
+		background: '#e44d26'
+	}).siblings().css({
+		background: 'black'
+	})
+});
 //隐藏列表
 $('.btn').click(function(){
 	$(this).toggleClass('out click');

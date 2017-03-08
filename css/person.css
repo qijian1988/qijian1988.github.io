@@ -14,6 +14,7 @@ body{
 	z-index: -1;
 	Font-size:62.5%;
 }
+
 #head-con{
 	position: fixed;
 	width: 100%;
@@ -56,6 +57,10 @@ body{
 }
 #wrap li:hover{
 	background: #e44d26;
+}
+#wrap li:nth-child(1){
+	background: #e44d26;
+	color: white;
 }
 #wrap ul li a{
 	color:white;
@@ -203,7 +208,7 @@ body{
 	transform: translate(-50%,-50%);
 	text-align: center;
 	padding-top:20px;
-	z-index: 1;
+	z-index: 4;
 }
 .above{
 	width: 60%;

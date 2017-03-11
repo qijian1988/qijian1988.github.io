@@ -1,0 +1,1 @@
+webpackJsonp([3],{0:function(n,t,c){(function(n){"use strict";c(34),c(86),c(32),n("#con-info").text("这是about页DOM插入内容")}).call(t,c(36))},86:function(n,t){}});

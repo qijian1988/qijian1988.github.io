@@ -76,17 +76,18 @@ section nav{
 #title span:last-child{
 	background: #866b3b;
 }
+#conList{
+	height: 18.275rem;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling:touch;
+}
 #leftList{
 	position: relative;
 	z-index: 1;
 	float: left;
 	width: 3.276rem;
-	height: 18.275rem;
 	background: #363533;
 	color: #ddab5e;
-	overflow-y: scroll;
-	-webkit-overflow-scrolling:touch;
-	transition:all 0.5s linear;
 }
 #leftList li{
 	height: 1.646rem;
@@ -106,6 +107,7 @@ section nav{
 	background: #2b2a29;
 }
 #rightList{
+	/*float: left;*/
 	text-align: center;
 }
 #rightList ul{
@@ -124,6 +126,9 @@ section nav{
 	display: block;
 	margin-right: 0.55rem;
 	border-top: 0.01rem solid  #636363;
+}
+#rightList li:last-child span{
+	border:none;
 }
 #container{
 	float: left;
@@ -149,7 +154,7 @@ section nav{
 #container li:first-child{
 	display: block;
 }
-embed{
+iframe{
 	width: 100%;
 	height: 48%;
 	margin-bottom: 6%;

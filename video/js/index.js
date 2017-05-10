@@ -8,3 +8,11 @@
 	})
 })
 
+ $('#rightList li').each(function(){
+	$(this).on('touchend',function(e){
+		e.preventDefault();
+		$(this).addClass('leftChecked').siblings().removeClass('leftChecked');
+		$('#leftList li').eq($(this).index()).addClass('leftChecked').siblings().removeClass('leftChecked');
+		$('#container li').eq($(this).index()).show().siblings().hide();
+	})
+})

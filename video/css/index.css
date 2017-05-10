@@ -55,7 +55,7 @@ section{
 section nav{
 	float: left;
 	width: 6.567rem;
-	height: 16.58rem;
+	height: 17.9rem;
 	background: #3c3c3c;
 	font-size:0.7rem;
 }
@@ -78,7 +78,7 @@ section nav{
 	background: #866b3b;
 }
 #conList{
-	height: 14.655rem;
+	height: 15.975rem;
 	overflow-y: scroll;
 	-webkit-overflow-scrolling:touch;
 }
@@ -134,7 +134,7 @@ section nav{
 #container{
 	float: left;
 	text-align: center;
-	height: 16.58rem;
+	height: 17.9rem;
 	width: calc(100% - 6.567rem);
 	padding: 0.543rem;
 	background: #d5d5d5;

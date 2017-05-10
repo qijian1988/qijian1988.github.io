@@ -133,7 +133,7 @@ section nav{
 #container{
 	float: left;
 	text-align: center;
-	height: 17.68;
+	height: 17.68rem;
 	width: calc(100% - 6.567rem);
 	padding: 0.543rem;
 	background: #d5d5d5;

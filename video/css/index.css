@@ -10,7 +10,7 @@ html,body{
 header{
 	width: 100%;
 	height: 6.8rem;
-	background: url(../images/banner.png) no-repeat;
+	background: url(../images/banner.png) no-repeat center;
 	background-size: cover;
 }
 #banner{
@@ -173,8 +173,9 @@ footer{
 }
 footer ul{
 	width: 100%;
-	height: 6.295rem;
+	height: 100%;
 	display: flex;
+	display: -webkit-flex;
 	justify-content: space-around;
 	align-items: center;
 }
@@ -186,4 +187,23 @@ footer img{
 	width: 3.562rem;
 	height: 3.562rem;
 	border:0.3rem solid #464035;
+}
+
+@media screen and (min-width: 500px) {
+	header{
+		height: 4rem;
+	}
+	section{
+		height: calc(100% - 9rem);
+	}
+	footer{
+		height: 5rem;
+	}
+	footer img{
+		width: 2.6rem;
+		height: 2.6rem;
+	}
+	footer ul li{
+		font-size: 0.5rem;
+	}
 }

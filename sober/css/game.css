@@ -1,0 +1,367 @@
+.disable {
+	pointer-events:none;
+}
+/* music-tip */
+#music-tip {
+	display:none;
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+}
+#music-tip > img {
+	position:absolute;
+	left:50%;
+	top:340px;
+	margin-left:-30px;
+	width:60px;
+	-webkit-animation:tip_pic .4s infinite forwards linear;
+}
+@-webkit-keyframes tip_pic {
+	to {
+		-webkit-transform:scale(1.2);
+	}
+}
+
+#music-tip span {
+	position:absolute;
+	left:0;
+	top:450px;
+	width:100%;
+	font-size:30px;
+	color:#fff;
+	text-align:center;
+}
+
+/* lead */
+.lead {
+	position:absolute;
+	left:210px;
+	top:345px;
+	width:220px;
+}
+.lead > i {
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:36px;
+	background:url(../img/lead-word.png) no-repeat;
+	opacity:0;
+}
+.lead > i:nth-child(1) {
+	top:50px;
+}
+.lead > i:nth-child(2) {
+	top:100px;
+	background-position:0 -60px;
+}
+.lead > i:nth-child(3) {
+	top:150px;
+	background-position:0 -120px;
+}
+.lead > i:nth-child(4) {
+	top:200px;
+	background-position:0 -175px;
+}
+.lead img {
+	position:absolute;
+	left:115px;
+	top:2px;
+	-webkit-transform:scale(0.7);
+}
+
+/* index */
+#index {
+	background:url(../img/index-bg.jpg) no-repeat;
+	background-size:cover;
+}
+
+.pan-box {
+	position:absolute;
+	left:50%;
+	top:60px;
+	margin-left:-340px;
+	width:680px;
+	height:680px;
+}
+.confirm-btn {
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-55px 0 0 -55px;
+	width:110px;
+	height:110px;
+	background:url(../img/confirm-btn.png) no-repeat;
+	z-index:20;
+}
+.confirm-btn.disable {
+	background-position:0 -55px;
+}
+.confirm-btn.active,.confirm-btn:active {
+	background-position:bottom;
+}
+.rotate-box,.round-box {
+	position:relative;
+	height:100%;
+}
+.round-box {
+	background:url(../img/pan.png) center no-repeat;
+}
+.name-box {
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-125px 0 0 -125px;
+	width:250px;
+	height:250px;
+	background:url(../img/pan-name.png) no-repeat;
+	z-index:14;
+}
+.name-box > span {
+	position:absolute;
+	left:50%;
+	top:0;
+	margin-left:-58px;
+	width:116px;
+	height:50%;
+	font-size:22px;
+	line-height:80px;
+	color:#9f9795;
+	text-align:center;
+	background:center 9px no-repeat;
+	-webkit-transform-origin:bottom;
+	-webkit-transition:all 1s;
+}
+.name-box > span:nth-child(2) {
+	-webkit-transform:rotate(60deg);
+}
+.name-box > span:nth-child(3) {
+	-webkit-transform:rotate(120deg);
+}
+.name-box > span:nth-child(4) {
+	-webkit-transform:rotate(180deg);
+}
+.name-box > span:nth-child(5) {
+	-webkit-transform:rotate(240deg);
+}
+.name-box > span:nth-child(6) {
+	-webkit-transform:rotate(300deg);
+}
+.name-box > span.active {
+	color:#fff;
+	background-image:url(../img/pan-name-curr.png);
+}
+@-webkit-keyframes flash {
+	0%,100% {
+		opacity:1;
+	}
+	50% {
+		opacity:0;
+	}
+}
+.photo {
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+}
+.photo > i {
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-320px 0 0 -85px;
+	width:170px;
+	height:324px;
+	background:url(../img/photo/1.png) no-repeat;
+	-webkit-transform-origin:bottom;
+}
+.photo > i:nth-child(2) {
+	background-image:url(../img/photo/2.png);
+	-webkit-transform:rotate(60deg);
+}
+.photo > i:nth-child(3) {
+	background-image:url(../img/photo/3.png);
+	-webkit-transform:rotate(120deg);
+}
+.photo > i:nth-child(4) {
+	background-image:url(../img/photo/4.png);
+	-webkit-transform:rotate(180deg);
+}
+.photo > i:nth-child(5) {
+	background-image:url(../img/photo/5.png);
+	-webkit-transform:rotate(240deg);
+	z-index:13;
+}
+.photo > i:nth-child(6) {
+	background-image:url(../img/photo/6.png);
+	-webkit-transform:rotate(300deg);
+}
+.photo > i.active {
+	background-position:right top;
+	-webkit-filter:brightness(1.18);
+}
+@-webkit-keyframes bright {
+	0%,100% {
+		-webkit-filter:brightness(1);
+	}
+	50% {
+		-webkit-filter:brightness(1.1);
+	}
+}
+.photo > i:nth-child(5).f1 {
+	background-image:url(../img/photo/51.png);
+}
+.photo > i:nth-child(5).f2 {
+	background-image:url(../img/photo/52.png);
+}
+.photo > i:nth-child(5).f3 {
+	background-image:url(../img/photo/53.png);
+}
+.photo > i:nth-child(5).f4 {
+	background-image:url(../img/photo/54.png);
+}
+
+#index-word {
+	position:absolute;
+	left:50%;
+	top:705px;
+	margin-left:-161px;
+	opacity:0;
+	-webkit-transform:scale(3);
+	-webkit-transition:all 0.4s 1.6s ease-in;
+}
+
+#index-btn {
+	display:none;
+	position:absolute;
+	left:50%;
+	top:890px;
+	margin-left:-51px;
+	padding:20px 0;
+	-webkit-animation:flash 1s infinite linear forwards;
+}
+
+/* index 动画 */
+#index > .pan-box {
+	opacity:0;
+	-webkit-transform:scale(.1) rotate(0);
+}
+#index.on > .pan-box {
+	-webkit-animation:pan-box 1s .2s forwards;
+}
+@-webkit-keyframes pan-box {
+	to {
+		opacity:1;
+		-webkit-transform:scale(1) rotate(-360deg);
+	}
+}
+#index.on > .pan-box .rotate-box {
+	-webkit-animation:rotate-box 5s .6s forwards ease-out;
+}
+@-webkit-keyframes rotate-box {
+	to {
+		-webkit-transform:rotate(-1800deg) translate3d(0,0,0);
+	}
+}
+
+#index.on #index-word {
+	opacity:1;
+	-webkit-transform:scale(1);
+}
+#index.on #index-word > img {
+	-webkit-animation:shaking .2s 1s infinite alternate;
+}
+@-webkit-keyframes shaking {
+	to {
+		-webkit-transform:translate(10px,-10px);
+	}
+}
+
+
+/* 答题 */
+.camera {
+	position:absolute;
+	left:50%;
+	top:30px;
+	margin-left:-145px;
+	opacity:0;
+	-webkit-transform:scale(2);
+	pointer-events:none;
+}
+#game1 {
+	background:url(../img/game-bg1.jpg) no-repeat;
+	background-size: cover;
+}
+
+@-webkit-keyframes game1-pan-box {
+	to {
+		-webkit-transform:translate3d(-660px,0,0);
+	}
+}
+
+#game2 {
+	background:url(../img/game-bg2.jpg) no-repeat center;
+	background-size:cover;
+}
+#game3 {
+	background:url(../img/game-bg3.jpg) no-repeat center;
+	background-size:cover;
+}
+#game4 {
+	background:url(../img/game-bg4.jpg) no-repeat center;
+	background-size:cover;
+}
+#game5 {
+	background:url(../img/game-bg5.jpg) no-repeat center;
+	background-size:cover;
+}
+
+.pan {
+	position:absolute;
+	left:50%;
+	top:350px;
+	margin-left:-340px;
+	width:680px;
+	height:680px;
+	z-index:13;
+}
+
+.pan .pan-box {
+	top:0;
+	margin-left:320px;
+}
+.pan .pan-box.on {
+	-webkit-animation:game1-pan-box 1.2s linear forwards;
+}
+.pan .pan-box.on .rotate-box {
+	-webkit-animation:rotate-box 2s forwards ease-out;
+}
+
+#game5 > i {
+	position:absolute;
+	left:40px;
+	top:105px;
+	width:346px;
+	height:235px;
+	background:url(../img/game-word.png) no-repeat;
+}
+#game5 > i.great {
+	background:url(../img/game-word-g.png) no-repeat;
+	background-size: cover;
+}
+#game5 > i.less {
+	background:url(../img/game-word-l.png) no-repeat;
+	background-size: cover;
+}
+
+.hand {
+	display:none;
+	position:absolute;
+	left:0;
+	top:0;
+	opacity:.8;
+	z-index:14;
+}

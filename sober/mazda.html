@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>马自达，随“驭”而安！</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="css/MAZDA.css"/>
+	</head>
+	<body>
+		<!-- 预加载蒙版 -->
+		<div id="mask">
+			<div class="progress"></div>
+			<p></p>
+		</div>
+		<!--视频播放栏开始-->
+		<div id="playVideo">
+			<img src="img/close.png" class="close">
+			<div id="play">
+				<img id="play-s" src="img/play.svg"/>
+				<img id="play-h" src="img/pause.svg" alt="" />
+				<canvas id="canvas">
+					你的浏览器不支持,请升级浏览器.
+				</canvas>
+				<video style="display: none;" src="./music/12.mp4"></video>
+			</div>
+		</div>
+		<audio src="music/2.mp3" autoplay="autoplay" loop="loop"></audio>
+		<div id="arrow">
+			<img src="img/p1/arrow.svg"/>
+		</div>
+		<div id="voice">
+			<img class="play-voice" src="img/p1/music_on.png"/>
+		</div>
+		<!--视频播放栏结束-->
+		<!--内容栏开始-->
+		<div>
+			<ul id="wrap">
+				<li class="page1">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w">MAZDA</span>
+						<span class="logo-s">魂动</span>
+					</p>
+					<div class="forum-left">
+						<img class="forum-t" src="img/p1/p1img_0004.png"/>
+						<img class="forum-h" src="img/p1/p1img_0003.png"/>
+					</div>
+					<div class="forum-right">
+						<img class="forum-r" src="img/p1/p1img_0002.png"/>
+						<img class="forum-b" src="img/p1/p1img_0001.png"/>
+					</div>
+				</li>
+				<li class="page2">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w">MAZDA</span>
+						<span class="logo-s">魂动</span>
+					</p>
+					<div id="page2-word">
+						<img class="page2-intro" src="img/p2/p2img_0003.png"/>
+						<div id="page2-red">
+							<img class="page2-bg" src="img/p2/p2img_0002.png"/>
+							<img class="page2-w" src="img/p2/p2img_0001.png"/>
+						</div>
+					</div>
+					<img class="page2-car" src="img/p2/p2img_0005.png"/>
+				</li>
+				<li class="page3">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w">MAZDA</span>
+						<span class="logo-s">魂动</span>
+					</p>
+					<div id="page3-word">
+						<p class="page3-word-fir">人生是一场旅行</p>
+						<p class="page3-word-sec">每一刻经历都是一道风景</p>
+						<p class="page3-word-thr">幸福 陌生 陪伴 感动</p>
+						<p class="page3-word-four"><span>遇见</span>，是久别的重逢</p>
+					</div>
+				</li>
+				<li class="page4">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w change-color">MAZDA</span>
+						<span class="logo-s change-color">魂动</span>
+					</p>
+					<div id="page4-word">
+						<h2 ><span>唤醒</span><i class="page4-word-fir">每一个感官</i></h2>
+						<p class="page4-word-sec">那些离去的都是风景,<br>留下的才是人生</p>
+						<p class="page4-word-thr">去吧,<br>别让曾经的誓言留在匆匆那年</p>
+					</div>
+					<img class="page4-car" src="img/p4/cx5.png"/>
+				</li>
+				<li class="page5">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w" style="color:white">MAZDA</span>
+						<span class="logo-s">魂动</span>
+					</p>
+					<div id="page5-word">
+						<p class="page5-fir">青春易逝</p>
+						<p class="page5-sec">璀璨易冷</p>
+						<p class="page5-thr">舞动青春，不让生命虚度</p>
+						<p class="page5-four">不辜负每一刻的精彩</p>
+						<p class="page5-five"><span>长安马自达，纵向激情!</span></p>
+					</div>
+				</li>
+				<li class="page6">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w" style="color:white">MAZDA</span>
+						<span class="logo-s">魂动</span>
+					</p>
+					<div id="page6-word">
+						<p class="page6-fir">一个眼神间，一个笑容里，信任与默契</p>
+						<p class="page6-sec">无论伟大还是渺小、出众或是平庸</p>
+						<p class="page6-thr">无论你的与众不同，彼此相依</p>
+						<p class="page6-four"><span>执领</span>未知之路!</p>
+					</div>
+				</li>
+				<li class="page7">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w change-color">MAZDA</span>
+						<span class="logo-s change-color">魂动</span>
+					</p>
+					<div id="page7-word">
+						<p>
+							可以和你一起进入生命的真相<br>
+							一起品味苦涩与心酸、一起感受欢喜<br>
+							坚定的相互维护，欣赏彼此的独特<br>
+							<span id="share">分享</span>无处不在!
+						</p>
+					</div>
+					<img id="click" src="img/p6/click1.svg"/>
+					<p id="video-name"><strong><<魂动>></strong>微电影</p>
+					<div id="video">
+						<a class="video-link" href="#"><img id="video-icon" src="img/p6/video2.svg" /></a>
+					</div>
+				</li>
+				<li class="page8">
+					<p id="page1-word">
+						<img class="logo" src="img/p1/logo.png"/>
+						<span class="logo-w change-color">MAZDA</span>
+						<span class="logo-s change-color">魂动</span>
+					</p>
+					<div id="page8-word">
+						<h3><a href="#">全新马自达CX-5风尚智能四驱SUV</a></h3>
+						<h3><a href="#">懂你的车，随“驭”而安</a></h3>
+						<p class="page8-fir"><span></span>友好的界面，方便上手的配置</p>
+						<p class="page8-sec"><span></span>轻便的操控，方向由你随心而定</p>
+						<p class="page8-thr"><span></span>动力澎湃，驾驭感强</p>
+						<p class="page8-four"><span></span>19寸的霸气轮毂</p>
+						<p class="page8-five"><span></span>四驱自动挡，超低油耗</p>
+						<p class="page8-six"><span></span>4年/10万公里免费保修保养服务</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<!--内容栏结束-->
+	</body>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/MAZDA.js"></script>
+	</body>
+</html>

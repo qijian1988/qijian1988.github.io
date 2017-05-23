@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  
+<script type="text/javascript">
+  
+var aud = new Audio();
+// aud.src = "audio/game_music.mp3";
+aud.src = "audio/bullet.mp3";
+// aud.loop = true;
+// aud.play();
+
+setInterval(function(){
+  var newAud = aud.cloneNode();
+  // aud.play();
+  newAud.play();
+},150);
+
+</script>
+
+</body>
+</html>

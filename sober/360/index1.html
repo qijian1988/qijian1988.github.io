@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+		<title>360看在你的面子上</title>
+		 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script src="js/jquery.js"></script>
+		<script src="js/js.js"></script>
+<!-- <link media="all" href="index.css" type="text/css" rel="stylesheet"> -->
+</head>
+<body>
+	<div class="out">
+        <div class="loading_out loading_move" style="display: none;">
+            <div class="loading">
+                <div class="loading_img"></div>
+                <div class="loading_text">100%</div>
+            </div>
+        </div>
+	   <div class="nub1_out">
+            <div class="nub1">
+                <div class="nub_bg nub_bg_zhuan_move"></div>
+                <div class="n1_mz1 n1_1"></div>
+                <div class="n1_mz2 n1_2"></div>
+                <div class="n1_mz3 n1_3"></div>
+                <div class="n1_x1 nub_bg_move"></div>
+                <div class="n1_x2 nub_bg_move"></div>
+                <div class="n1_x3 nub_bg_move"></div>
+                <div class="n1_x4 nub_bg_move"></div>
+                
+            </div>
+       </div>
+       <div class="nub2_out">
+            <div class="nub1">
+                <div class="n2_mz1">
+                    <div class="n2_mz1_nr"></div>
+                </div>
+                <div class="n2_mz2">
+                    <canvas id="canvas1" width="46" height="46"></canvas>
+                    <canvas id="canvas2" width="46" height="46"></canvas>
+                    <canvas id="canvas3" width="46" height="46"></canvas>
+                    <canvas id="canvas4" width="46" height="46"></canvas>
+                    <div class="canvas1_text"></div>
+                    <div class="canvas2_text"></div>
+                    <div class="canvas3_text"></div>
+                    <div class="canvas4_text"></div>
+                </div>
+                <div class="n2_mz3">
+                    <div class="n2_mz3_left">
+                        <span></span>
+                        <strong>搜索指数<img src="images/fdj1.png"></strong>
+                        <div class="zhu_left"></div>
+                    </div>
+                    <div class="n2_mz3_right">
+                        <span></span>
+                        <strong>搜索指数<img src="images/fdj2.png"></strong>
+                        <div class="zhu_right"></div>
+                    </div>
+                </div>
+                
+            </div>
+       </div>
+       <div class="nub3_out">
+            <div class="nub1">
+                <div class="n3_1">
+                    <strong>南方和北方的“面子观”差别</strong>
+                    <span>南方／北方  对护肤的关注差异</span>
+                    <div class="ditu1"></div>
+                    <div class="ditu2"></div>
+                    <div class="n3_h"></div>
+                    <div class="n3_s"></div>
+                    <div class="n3_text"></div>
+                </div>
+                <ul class="n3_ul">
+                    <li>
+                        <strong>防晒</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em2"></em><var class="n3_bv">40%</var></span>
+                            <span><em class="n3_red n3_em1"></em><var class="n3_rv">29%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>去黑头</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em4"></em><var class="n3_bv">11%</var></span>
+                            <span><em class="n3_red n3_em3"></em><var class="n3_rv">19%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>祛斑</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em3"></em><var class="n3_bv">19%</var></span>
+                            <span><em class="n3_red n3_em4"></em><var class="n3_rv">11%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>保湿</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em5"></em><var class="n3_bv">10%</var></span>
+                            <span><em class="n3_red n3_em4"></em><var class="n3_rv">11%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>去黑眼圈</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em7"></em><var class="n3_bv">1%</var></span>
+                            <span><em class="n3_red n3_em6"></em><var class="n3_rv">9%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>美白</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em9"></em><var class="n3_bv">7%</var></span>
+                            <span><em class="n3_red n3_em8"></em><var class="n3_rv">8%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>遮瑕</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em11"></em><var class="n3_bv">6%</var></span>
+                            <span><em class="n3_red n3_em10"></em><var class="n3_rv">5%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>祛痘</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em12"></em><var class="n3_bv">3%</var></span>
+                            <span><em class="n3_red n3_em12"></em><var class="n3_rv">3%</var></span>
+                        </div>
+                    </li>
+                    <li>
+                        <strong>去角质</strong>
+                        <div class="n3_t_out">
+                            <span><em class="n3_blue n3_em13"></em><var class="n3_bv">2%</var></span>
+                            <span><em class="n3_red n3_em12"></em><var class="n3_rv">3%</var></span>
+                        </div>
+                    </li>
+                </ul>
+                <div class="n3_2"></div>
+               
+                
+            </div>
+       </div>
+       <div class="nub4_out">
+            <div class="nub1">
+                <div class="n4_1">
+                    <div class="n4_1_1">男人对“面子”很走心</div>
+                    <div class="n4_1_2">直男且行且珍惜</div>
+                    <div class="n4_1_3">男性对护肤关注一点不输女性</div>
+                    <div class="dk_out">
+                        <div class="dk_l"></div>
+                        <div class="dk_r"></div>
+                        <div class="dk_text"></div>
+                        <div class="n4_sd"></div>
+                    </div>
+                </div>
+                <div class="n4_2">
+                    <div class="n4_1_3">男人们有自己的选择</div>
+                    <div class="n4_2_2"></div>
+                </div>
+               
+                
+            </div>
+       </div>
+       <div class="nub5_out">
+            <div class="nub1">
+                <div class="n5_1">
+                    <div class="n4_1_1">撑着我们“面子”的洋货</div>
+                    <div class="n5_1_3">高端护肤市场被美法日三国品牌瓜分</div>
+                    <div class="n5_1_3">大众品牌里“自然堂”是唯一进榜的“纯”国产品牌</div>
+                    <div class="n5_q_out">
+                        <div class="n5_q1"></div>
+                        <div class="n5_q2"></div>
+                        <div class="n5_q3"></div>
+                        <div class="n5_q4"></div>
+                    </div>
+                </div>
+                <div class="n5_2"></div>
+                <div class="n5_3"></div>
+            </div>
+       </div>
+       <div class="nub6_out">
+            <div class="nub1">
+                <div class="n6_1">
+                    <div class="n4_1_1">要面子别怕麻烦</div>
+                    <div class="n5_1_3">对于多数用户来说，护肤还停留在初级阶段</div>
+                    <ul class="n6_ul">
+                        <li><strong class="n6_q1"><img src="images/n6_q1.png"></strong><span class="n6_text1"><img src="images/n6_1.png"></span></li>
+                        <li><strong class="n6_q2"><img src="images/n6_q2.png"></strong><span class="n6_text2"><img src="images/n6_2.png"></span></li>
+                        <li><strong class="n6_q3"><img src="images/n6_q3.png"></strong><span class="n6_text3"><img src="images/n6_3.png"></span></li>
+                        <li><strong class="n6_q4"><img src="images/n6_q4.png"></strong><span class="n6_text4"><img src="images/n6_4.png"></span></li>
+                        <li><strong class="n6_q5"><img src="images/n6_q5.png"></strong><span class="n6_text5"><img src="images/n6_5.png"></span></li>
+                    </ul>
+                    <div class="n6_x"><img src="images/n6_x.png"></div>
+                </div>
+                <div class="last_logo"></div>
+                
+            </div>
+       </div>
+       <div class="nub7_out">
+            <div class="nub1">
+                <div class="n7_1">
+                    <strong>“爱面子” 从360开始</strong>
+                    <span>现在就去了解上榜护肤产品</span>
+                </div>
+                <div class="n7_2"></div>
+                <div class="n7_3">
+                    <img src="images/n7_2.png">
+                    <strong>官方公众号：三研社   <span>ID:Reserach360</span></strong>
+                </div>
+                <div class="n7_4">
+                    <a href="http://www.dwz.cn/Reserach360" class="lj_out">
+                        <strong>详细报告，请猛戳此链接：</strong>
+                        <span>http://www.dwz.cn/Reserach360</span>
+                    </a>
+                </div>
+            </div>
+       </div>
+        <div class="logo"></div>
+       <div class="jt_out">
+            <div class="jt jt_move"></div>
+       </div>
+       <div class="kaiguan"><audio id="audio" src="bg.mp3" autoplay="autoplay" style="display: none;"></audio></div>
+       <div class="kaiguanguan"></div>
+    </div>
+	 
+
+
+</body>
+</html>

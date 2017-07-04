@@ -1,5 +1,4 @@
-html,
-body {
+html,body{
     width: 100%;
     height: 100%;
     font-family: '微软雅黑';
@@ -8,58 +7,47 @@ body {
     color: #fff;
     overflow: hidden;
 }
-
 /* banner */
-
-header {
+header{
     position: relative;
 }
-
-#banner {
+#banner{
     width: 100%;
-    height: 13rem;
 }
-
-#view {
+#view{
     position: absolute;
-    top: 5rem;
+    top: 7.3rem;
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
     width: 5.35rem;
     height: 1.35rem;
 }
-
-header p {
+header p{
     position: absolute;
     width: 100%;
     text-align: center;
-    top: 3.25rem;
+    top: 5.25rem;
     color: #fff6e3;
     font-size: 0.66425rem;
 }
-
-header p span {
+header p span{
     margin-right: 0.5rem;
 }
-
-header p>span:last-child {
+header p>span:last-child{
     padding: 0.1rem 0.9rem;
-    border: 1px solid #776349;
+    border:1px solid #776349;
     border-radius: 1rem;
 }
-
 /* 顶部公告栏 */
-
-#topNotice {
+#topNotice{
     color: #fff;
 }
-
-#topNotice p {
+#topNotice p{
     width: 26.25rem;
     height: 2.25rem;
     line-height: 2.25rem;
-    margin: 1rem auto;
+    margin:1rem auto;
     background: #1f1f1f;
     text-align: center;
     font-size: 0.6235rem;
@@ -68,35 +56,31 @@ header p>span:last-child {
     text-overflow: ellipsis;
     overflow: hidden;
 }
-
 /* 视频列表 */
-
-#videoList {
-    height: calc(100% - 30.5rem);
-    margin: 0 2.5%;
+#videoList{
+    height: calc(100% - 40rem);
+    margin:0 2.5%;
     overflow-y: scroll;
-    -webkit-overflow-scrolling: touch;
+    -webkit-overflow-scrolling:touch;
 }
-
-#videoList iframe {
+#videoList iframe{
     float: left;
     width: 45%;
     margin: 2.5%;
 }
-
-#videoList iframe:nth-child(even) {
+#videoList iframe:nth-child(even){
     float: right;
+
 }
 
 /* footer */
 
-footer {
+footer{
     width: 100%;
     height: 9.5rem;
     background: #000;
 }
-
-footer ul {
+footer ul{
     width: 100%;
     height: 100%;
     display: flex;
@@ -105,23 +89,20 @@ footer ul {
     align-items: center;
     padding-top: 0.925rem;
 }
-
-footer ul li {
+footer ul li{
     text-align: center;
-    font-size: 0.7rem;
+    font-size:0.7rem;
 }
-
-footer img {
+footer img{
     width: 6.625rem;
     height: 6.625rem;
-    border: 0.3rem solid #464035;
+    border:0.3rem solid #464035;
 }
-
-footer p {
+footer p{
     width: 26.25rem;
     height: 2.25rem;
     line-height: 2.25rem;
-    margin: 0.625rem auto;
+    margin:0.625rem auto;
     background: #1f1f1f;
     text-align: center;
     font-size: 0.6235rem;

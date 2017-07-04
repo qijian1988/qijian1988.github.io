@@ -10,9 +10,11 @@ html,body{
 /* banner */
 header{
     position: relative;
+    overflow: hidden;
 }
 #banner{
     width: 100%;
+    float: left;
 }
 #view{
     position: absolute;
@@ -47,7 +49,7 @@ header p>span:last-child{
     width: 26.25rem;
     height: 2.25rem;
     line-height: 2.25rem;
-    margin:0.5rem auto;
+    margin:0.5rem auto 0;
     background: #1f1f1f;
     text-align: center;
     font-size: 0.6235rem;

@@ -90,7 +90,7 @@ footer ul{
     display: -webkit-flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 0.925rem;
+    padding-top: 0.5rem;
 }
 footer ul li{
     text-align: center;

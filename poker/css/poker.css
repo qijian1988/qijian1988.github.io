@@ -58,7 +58,7 @@ header p>span:last-child{
 }
 /* 视频列表 */
 #videoList{
-    height: calc(100% - 40rem);
+    height: calc(100% - 39.5rem);
     margin:0 2.5%;
     overflow-y: scroll;
     -webkit-overflow-scrolling:touch;

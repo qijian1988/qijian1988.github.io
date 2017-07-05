@@ -80,6 +80,7 @@ header p>span:last-child {
 /* 视频列表 */
 
 #videoList {
+    padding-top: 0.5rem;
     height: calc(100% - 10rem);
     margin: 0 2.5%;
     overflow-y: scroll;
@@ -94,8 +95,8 @@ header p>span:last-child {
 #videoList ul li {
     float: left;
     width: 45%;
-    margin: 1% 2.5%;
-    /*    background: #333;
+    margin: 0.5% 2.5%;
+     /*   background: #333;
     border:1px solid #eee;*/
 }
 

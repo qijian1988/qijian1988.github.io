@@ -1,0 +1,3404 @@
+{
+    "user": {
+        "name": "未曾遗忘的青春",
+        "avatar": "/static/images/userlogo.jpg",
+        "grade": "9",
+        "bg": "http://www.daiwei.org/index/images/img/indeximg.jpg"
+    },
+    "music": {
+    	"all":[
+    		{
+		        "id": "110",
+		        "name": "小酒窝",
+		        "singer": "林俊杰,蔡卓妍",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0,%E8%94%A1%E5%8D%93%E5%A6%8D%20-%20%E5%B0%8F%E9%85%92%E7%AA%9D.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": [{
+				            "timeId": "1",
+					            "text": "小酒窝 - 林俊杰&蔡卓妍"
+					        },
+					        {
+					            "timeId": "10",
+					            "text": "我还在寻找一个依靠和一个拥抱"
+					        },
+					        {
+					            "timeId": "20",
+					            "text": "谁替我祈祷替我烦恼为我生气为我闹"
+					        },
+					        {
+					            "timeId": "30",
+					            "text": "幸福开始有预兆缘分让我们慢慢紧靠"
+					        },
+					        {
+					            "timeId": "39",
+					            "text": "然后孤单被吞没了无聊变得有话聊有变化了"
+					        },
+					        {
+					            "timeId": "49",
+					            "text": "小酒窝长睫毛是你最美的记号"
+					        },
+					        {
+					            "timeId": "54",
+					            "text": "我每天睡不着想念你的微笑"
+					        },
+					        {
+					            "timeId": "60",
+					            "text": "你不知道你对我多么重要"
+					        },
+					        {
+					            "timeId": "65",
+					            "text": "有了你生命完整的刚好"
+					        },
+					        {
+					            "timeId": "69",
+					            "text": "小酒窝长睫毛迷人的无可救药"
+					        },
+					        {
+					            "timeId": "74",
+					            "text": "我放慢了步调感觉像是喝醉了"
+					        },
+					        {
+					            "timeId": "80",
+					            "text": "终于找到心有灵犀的美好"
+					        },
+					        {
+					            "timeId": "85",
+					            "text": "一辈子暖暖的好"
+					        },
+					        {
+					            "timeId": "90",
+					            "text": "我永远爱你到老"
+					        },
+					        {
+					            "timeId": "103",
+					            "text": "幸福开始有预兆缘分让我们慢慢紧靠"
+					        },
+					        {
+					            "timeId": "112",
+					            "text": "然后孤单被吞没了无聊变得有话聊有变化了"
+					        },
+					        {
+					            "timeId": "122",
+					            "text": "小酒窝长睫毛是你最美的记号"
+					        },
+					        {
+					            "timeId": "127",
+					            "text": "我每天睡不着想念你的微笑"
+					        },
+					        {
+					            "timeId": "133",
+					            "text": "你不知道你对我多么重要"
+					        },
+					        {
+					            "timeId": "138",
+					            "text": "有了你生命完整的刚好"
+					        },
+					        {
+					            "timeId": "142",
+					            "text": "小酒窝长睫毛迷人的无可救药"
+					        },
+					        {
+					            "timeId": "148",
+					            "text": "我放慢了步调感觉像是喝醉了"
+					        },
+					        {
+					            "timeId": "154",
+					            "text": "终于找到心有灵犀的美好"
+					        },
+					        {
+					            "timeId": "159",
+					            "text": "一辈子暖暖的好"
+					        },
+					        {
+					            "timeId": "164",
+					            "text": "我永远爱你到老"
+					        },
+					        {
+					            "timeId": "177",
+					            "text": "小酒窝长睫毛迷人的无可救药"
+					        },
+					        {
+					            "timeId": "182",
+					            "text": "我放慢了步调感觉像是喝醉了"
+					        },
+					        {
+					            "timeId": "188",
+					            "text": "终于找到心有灵犀的美好"
+					        },
+					        {
+					            "timeId": "193",
+					            "text": "一辈子暖暖的好"
+					        },
+					        {
+					            "timeId": "197",
+					            "text": "我永远爱你到老"
+					      }]
+		    },
+		    {
+		        "id": "109",
+		        "name": "一千年以后",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E4%B8%80%E5%8D%83%E5%B9%B4%E4%BB%A5%E5%90%8E.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "107",
+		        "name": "那些你很冒险的梦",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%BE%88%E5%86%92%E9%99%A9%E7%9A%84%E6%A2%A6.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%BE%88%E5%86%92%E9%99%A9%E7%9A%84%E6%A2%A6.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "106",
+		        "name": "可惜没如果",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%8F%AF%E6%83%9C%E6%B2%A1%E6%9C%89%E5%A6%82%E6%9E%9C.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E5%8F%AF%E6%83%9C%E6%B2%A1%E5%A6%82%E6%9E%9C.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "105",
+		        "name": "她说",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E5%A5%B9%E8%AF%B4.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "104",
+		        "name": "修炼爱情",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%BF%AE%E7%82%BC%E7%88%B1%E6%83%85.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E4%BF%AE%E7%82%BC%E7%88%B1%E6%83%85.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "103",
+		        "name": "当你",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E5%BD%93%E4%BD%A0.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "101",
+		        "name": "不为谁而作的歌",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E4%B8%8D%E4%B8%BA%E8%B0%81%E8%80%8C%E4%BD%9C%E7%9A%84%E6%AD%8C.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "100",
+		        "name": "爱笑的眼睛",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E7%88%B1%E7%AC%91%E7%9A%84%E7%9C%BC%E7%9D%9B.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "98",
+		        "name": "江南",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%B1%9F%E5%8D%97.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E6%B1%9F%E5%8D%97.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "97",
+		        "name": "我还想她",
+		        "singer": "林俊杰",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.mp3",
+		        "type": "华语 林俊杰",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "96",
+		        "name": "Fade（LaRry Rong Remix）",
+		        "singer": "LaRry Rong",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_faded-1.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/LaRry%C2%A0Rong%20-%20Fade%EF%BC%88LaRry%20Rong%20Remix%EF%BC%89.mp3",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "95",
+		        "name": "青年晚报",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_qingnianwanbao.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95A09918234A557EF3DB6AD0EF5756B77B7BF7B3C32123B06A9261CD93E2D828E23819E2767CC4422EDFEBEB8293EAECD848A02530E1C1C2&downloadType=1",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "91",
+		        "name": "Falling",
+		        "singer": "AndyM",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Falling.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2620EE152D0DB5E65A59D2AA00A40D5AE40595CC95176C7F0D3BA69393136AD924126762EEC9AF740BBE67084A1307FA04A232DAAB777034&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "89",
+		        "name": "Memories",
+		        "singer": "Sappheiros",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_memories.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=83B2C25FAF68A0EBC121597010BC79B865EBA225155592BC10F563FB2FA78255D7C4363A3B66EA40EFB6A159C970F29CE540DC1839319B74&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "88",
+		        "name": "Far Away",
+		        "singer": "Yinyues",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_far%20away.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=5172F8B05AB14F9EC256F65C67B778B489160D36788CF8C999D9210E6B929959C719540502102B7DD26AB3A197CE97D8F00A031453A6CC1B&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "87",
+		        "name": "China-O",
+		        "singer": "徐梦圆",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_chinaO.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-O.mp3",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "86",
+		        "name": "Summertime",
+		        "singer": "K-391",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Summertime%20.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=20678202B5AF7464997E24138126A23AA15BD25A6B8E536C82430C83A889CFBF65B13D11AB07FD439DC57AAF988CB50FB1A588D7B29FEE48&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "85",
+		        "name": "Disconnected (Original Mix)",
+		        "singer": "Pegboard Nerds",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_disconnected.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=595CCC846D5C8D79CB014A572EE3FBDC19309009CEA1197A096C24A8CB1B477F5F49BB730429BFAC5CE570FD903DDEB00D6F46E300AC8C27&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "84",
+		        "name": "Atmosphere",
+		        "singer": "CelDro",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Atmosphere.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2959333EB70260D3886F987042680B450276722006EEDB3B060F0863CAB7F7A272DFB489C6735A1ABFE2DC0953CF6B304D63B1FB3E1498C9&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "83",
+		        "name": "Sing Me to Sleep",
+		        "singer": "Alan Walker",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Sing%20Me%20to%20Sleep.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=331669342DC319B6DD34A966F758E7973D753AA925CA78D4DB7AA95B61F3D9AF7BF9E65DA12F6855CA5493AC04B2D43804E97E332721F660&downloadType=1",
+		        "type": "欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "82",
+		        "name": "灰色头像",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB%E9%9B%BE%E5%90%AF%E4%BA%8B.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%81%B0%E8%89%B2%E5%A4%B4%E5%83%8F.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "81",
+		        "name": "半城烟沙",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "80",
+		        "name": "多余的解释",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%A4%9A%E4%BD%99%E7%9A%84%E8%A7%A3%E9%87%8A.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "79",
+		        "name": "惊鸿一面",
+		        "singer": "许嵩,黄龄",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%8D%E5%A6%82%E5%90%83%E8%8C%B6%E5%8E%BB.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4962389182DD51B8B834197D63DDA26B7907A24C83015411CFE721C0D0C2A3CC5FCD6FB07B413AE01C87C00F4FC728FEDA90A024F642E69A&downloadType=1",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "78",
+		        "name": "河山大好",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B2%B3%E5%B1%B1%E5%A4%A7%E5%A5%BD.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "75",
+		        "name": "想象之中",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1698FEBA38FADA66CB22C0ECC710CDE89AF02D4BBDB8BAE15A2CBB1D5A79A4AC3E3BDD7AD32D8C7E15FF00DBA530FCCC19580726071B2EA3&downloadType=1",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "74",
+		        "name": "山水之间",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%8D%E5%A6%82%E5%90%83%E8%8C%B6%E5%8E%BB.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=315152ED8504F988C087698661A2A134F3070B0D7D20F23BFB905F37AA06FE7900A8E8F6A9E7D169B08BCCE12816DE64785C169408D5B42B&downloadType=1",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "73",
+		        "name": "有何不可",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=819A9F93894AD7DFBB5F6B859F5401DE9AE7404A88BA66B8344D3FC3D179D52B972B738829D2E9DAB68F687BC618F4ADCE103DEEB37BA1C1&downloadType=1",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "72",
+		        "name": "清明雨上",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B8%85%E6%98%8E%E9%9B%A8%E4%B8%8A.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "71",
+		        "name": "拆东墙",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%8B%86%E4%B8%9C%E5%A2%99.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "70",
+		        "name": "庐州月",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB%E9%9B%BE%E5%90%AF%E4%BA%8B.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%BA%90%E5%B7%9E%E6%9C%88.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "69",
+		        "name": "幻听",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%A2%A6%E6%B8%B8%E8%AE%B0.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%B9%BB%E5%90%AC.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "68",
+		        "name": "千百度",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%83%E7%99%BE%E5%BA%A6.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "67",
+		        "name": "玫瑰花的葬礼",
+		        "singer": "许嵩",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.mp3",
+		        "type": "华语 许嵩",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "66",
+		        "name": "ふたりの気持ち",
+		        "singer": "和田薫",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8A%AC%E5%A4%9C%E5%8F%89.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%92%8C%E7%94%B0%E8%96%AB%20-%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1.mp3",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "61",
+		        "name": "The Technicolor Phase",
+		        "singer": "Owl City",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_owl_city.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CB9FEC17E9CF9832CEC389C03EBC8EBA7E480BF8701EAEA51931B20D960EE9FA0C9264D05C51BA07513BCE155A7AAB7943691B33AC89CBE1&downloadType=1",
+		        "type": "Owl City 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "60",
+		        "name": "The Saltwater Room",
+		        "singer": "Owl City",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_The%20Saltwater%20Room.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=FACEFAE95F35FDD8358EFB673B4F3873ED5606D1159B947C11696E52008F7F1CB8AB2CF10D12FEF30BCC40DFA26F3666276A619C6128CC8E&downloadType=1",
+		        "type": "Owl City 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "59",
+		        "name": "Gold (Acoustic)",
+		        "singer": "Owl City",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_gold.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95187647AB8EF666A21F7F6FF709A36B07BFAFC19185775EA27A377A0F4B228044DB8BA03FCB74013C8BA6A5B184187D1AF062C568B7AF41&downloadType=1",
+		        "type": "Owl City 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "58",
+		        "name": "Enchanted",
+		        "singer": "Owl City",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_enchaned.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=0255C9A6820B33EDD35543D5A55410D56DFD8779A6C7045A0149335C62B28C4697111B2C24D90978982034F8563C73891933716079675759&downloadType=1",
+		        "type": "Owl City 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "57",
+		        "name": "Beautiful Times",
+		        "singer": "Owl City",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_beautiful_times.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=558BB97B3C5D18CF7C28FF5E4D9A05979F1A9561CBEF6D78D0ABA3EAC41E735CC2DE47A47A4DA93C73B556338C75FAC101F36A984B5D206F&downloadType=1",
+		        "type": "Owl City 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "56",
+		        "name": "Fuzzy Blue Lights",
+		        "singer": "Owl City",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Fuzzy%20Blue%20Lights.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=6393160FA6431080F40D3B1064B0E85D9DC4F7B12B5BC2A63140200F21819619EA0752DBA4F4F471FE279D5F9E1227C27F0DE1520C9357C0&downloadType=1",
+		        "type": "Owl City 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "55",
+		        "name": "You're not alone",
+		        "singer": "Owl City",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_You%E2%80%99re%20Not%20Alone.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/Owl%20City,Britt%20Nicole%20-%20You%E2%80%99re%20Not%20Alone.mp3",
+		        "type": "Owl City 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "54",
+		        "name": "Remember Me (Original Mix)",
+		        "singer": "Kozoro",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_remenberme.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=6C6E29455F5C239DEE26F1F127179466E87D62C0BF14A2380F6CEFDCAB35B76A40F2FAE2AF6013CC1F89DEFCB78996E6200C1C68F93354D8&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "53",
+		        "name": "Thank You (Original Mix)",
+		        "singer": "Kozoro",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_thankyou.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2EFADD6199E1410D5AFD17D5BFCA716A3CBB8AAE7410ED2916794FF1B2DC749BC03CE4520AA376E48437A034EE6F374014DFE0333FA54881&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "52",
+		        "name": "Together",
+		        "singer": "Kozoro",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_together.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1A83E5B66CA15C683F62B9371C50AA9B375B3D16B6E6792EA1718A9946F0A2FD9283F617C562679BBB7B4E11BDE8E9FA5CAE924B2B62410D&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "51",
+		        "name": "Autumn (Original Mix)",
+		        "singer": "Kozoro",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_autumn.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F9840C8A05C98AE60AAEE4E019B9C7500AD040EC32F6CD765CDADA74D8CA4A045B3763EA97CC54E17698EE7A24F48CC38F10BB2663F69A47&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "47",
+		        "name": "You Are In Love",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=5725D17CDCA95AC7524D220174D97A147A62AFB78F54D473199E903A3C92D3D7F23EF07758FA0F753C3FB6BBC54CFC2676920CA16305B766&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "46",
+		        "name": "Wonderland",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=8947EFA09B9B79F784E64C28260DC32DC821939A68CF5856DD57B56DCA3FA10B1AD873765CE9C051D3D65954FCFF7C0E699BD0849609D269&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "45",
+		        "name": "Wildest Dreams",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/Taylor%20Swift%20-%20Wildest%20Dreams.mp3",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "44",
+		        "name": "Style",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=220DEFFDAFEE5CFEA093F4BF05216E1EACCFEA5ABF2A7967688545AD70C74BC5F9193259AB61EA5874293DAE9490ADA78B8B800E342CD9ED&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "43",
+		        "name": "Out Of The Woods",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F6D51186753242FE42DB8CD6C00C17E9F29CF585A1ADA23680597B657DFF010C83610B4C779A55746CA713FD8FC271957BD775F929687BDC&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "42",
+		        "name": "New Romantics",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CF714DCEF25812AFCDA731735E47B4456DCB63C6079D5537A0B32BBB1662EA965B7F5665529CDCE8521A7FE8775B644927C464B4696F56F9&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "41",
+		        "name": "I Know Places",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AE61453855420C39492867D2AC30B8188AD22FD8A6ADF1799A8E2D3E66D893C4B49B5CCAD55955524D7120DA35C0130CD801EE0F57F771A&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "40",
+		        "name": "How You Get The Girl",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=D4ED9226A9113559911D9E760DB4D3D4E711AD13C61858568659DDD770E4720B65EC0859C8E6B28B86D8211008D7EB85309E2E1285E64229&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "39",
+		        "name": "Clean",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=896A4D28F19A1CFB61FFA25E2F588826C1FB42A0D578E197E8833BFF88B68A829DE028A01FE3B6BCCE2CA5DBA9DA8A703E9765526374ECD4&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "38",
+		        "name": "I Wish You Would",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1567A845E9AAD3C565466059FC3880ACA04866781E0EB783ACECC769975373368EB55DF164D9A5C5E3F35168ED59315B6A6CE41FBA53ADAC&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "37",
+		        "name": "All You Had To Do Was Stay",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=3869DD6478A16A1E1F51AE5827747A7D9D6E5B1ED832B4FEC672641EBD659E11D8E53B1F97884F64C1094F5A923E871C238B472317DD6BEF&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "36",
+		        "name": "不同",
+		        "singer": "郑国锋",
+		        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E4%B8%8D%E5%90%8C.mp3",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "35",
+		        "name": "采茶纪",
+		        "singer": "双笙",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E9%87%87%E8%8C%B6%E8%AE%B0.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=96D5CE4255BACD9BB3E8D2C832BB21841BD35026FB80FD192CD411865121B09D720BAA29A781950819C0880CB5D121E7AC70CE079B03FC1E&downloadType=1",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "34",
+		        "name": "吸引力",
+		        "singer": "Tearliner",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%EC%9D%B4%EB%81%8C%EB%A6%BC.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=C67813A79C4949962C4116A6C9729424828CFB541E8DBF5A884F50D4EA6622861929B8D6E540F4F9F6BEF5EBFA6EDCF3854B18CF8869427B&downloadType=1",
+		        "type": "韩国",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "33",
+		        "name": "Comptine D'un Autre ?té, L'après-Midi",
+		        "singer": "Yann Tiersen",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Comptine%20D%27un%20Autre%20%C3%89t%C3%A9,%20L%27apr%C3%A8s-Midi.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=DE04EA13A323A42ADD3278D71EBADFDFA1B8D95E4C456BDFFAB3F65699528C2847226E56EB4E34B89B55B7408C93513A78823AD050C1B823&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "32",
+		        "name": "Leave Out All The Rest",
+		        "singer": "Linkin Park",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Leave%20Out%20All%20The%20Rest.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=63E557E92E5D942320CB7025CBFF8632CAEF1E874E8FBC7DE22307A65EDE7C902DA3BDCF18DA01DB1F452808FF2131B6766D2713940F31A5&downloadType=1",
+		        "type": "欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "31",
+		        "name": "我以为我可以",
+		        "singer": "郑国锋",
+		        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=490442FDF15504E5FF324BFD569988E4F9CC505ED3291FB9F3248CB1A38B5FA4E1C3C49F0D5DC86F463FF260FE997CB282A04E5A7B29DC11&downloadType=1",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "30",
+		        "name": "PneumaticTokyo",
+		        "singer": "EnV",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_PneumaticTokyo.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=94A921C257EDEF794E747EF67C9E5FC9C191F5921DA71862B3EFC4413A3FD09058B856CF68AAEE49A1A2B0B22E8A09DFFC9CD457F9D44AF5&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "29",
+		        "name": "Think Again",
+		        "singer": "Kate Havnevik",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Think%20Again.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=90945B3777B3425860A8BE3A8F38D1A1AE25EE4FDA3D077B53D8330A6885DCCEE1CFC2AFB70B40AA61C921417130278A381F1169554B3C54&downloadType=1",
+		        "type": "欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "28",
+		        "name": "Endless",
+		        "singer": "Natio",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_endless.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AA16A5E1B7F96C72DBCE1687BC1DE74B8C8B04B672BC1FDD3F59193B56F5CF6090459C510368817E1992A8DA628E507066DC289DFC686D8&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "27",
+		        "name": "再见了单纯",
+		        "singer": "小5",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%86%8D%E8%A7%81%E4%BA%86%20%E5%8D%95%E7%BA%AF.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%B0%8F5%20-%20%E5%86%8D%E8%A7%81%E4%BA%86%E5%8D%95%E7%BA%AF.mp3",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "26",
+		        "name": "Color-X 3D",
+		        "singer": "徐梦圆",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_color-3d.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20color-X%203D.mp3",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "25",
+		        "name": "外面的世界",
+		        "singer": "莫文蔚 ",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%8E%AB%E6%96%87%E8%94%9A%20-%20%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C.mp3",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "24",
+		        "name": "童话镇",
+		        "singer": "陈一发儿",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%AB%A5%E8%AF%9D%E9%95%87.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%20-%20%E7%AB%A5%E8%AF%9D%E9%95%87.mp3",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "23",
+		        "name": "Viva La Vida",
+		        "singer": "David Garrett",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Viva%20La%20Vida.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F0696999FA90DC5DEDE735714D4D190BBF93FC4B14D0BAC866BF6C3C56E50EBFAA59E13A42C0956BAA4FF4DB0B28F210BCDE06F04683F780&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "21",
+		        "name": "Zeemeeuw",
+		        "singer": "Lindequist",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Zeemeeuw.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=A6981AC6AC88A0A3C11D363622032C0AB88963303088EF66DDC3665A5944114AE5481205D0265FD8F3AE55B9811F4362F8C66DCAB843BA9F&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "20",
+		        "name": "China-X",
+		        "singer": "徐梦圆",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_china.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-X.mp3",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "19",
+		        "name": "爱与诚",
+		        "singer": "古巨基",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%88%B1%E4%B8%8E%E8%AF%9A.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=EC04F55E4555ABAE16068213C19B96A2597404878D75A9D5BADC1CA38DD588DB407097C7FA527FF6AC267687D1B65F5F68CC38DF148F5DD3&downloadType=1",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "18",
+		        "name": "China-A",
+		        "singer": "徐梦圆",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_china.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-A.mp3",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "17",
+		        "name": "Visions",
+		        "singer": "Vief",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_visions1.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=57BEB0B7668F399C75CEF35E584118ADEA46A37A5C2C9FCD2BE853915A9AB0C39580EE846A9C85E34B620C0E044E93D62DA786E3C1131FEA&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "16",
+		        "name": "Visions",
+		        "singer": "Acreix",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_visions.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F37AEAB3F475516D61A2C5EC7BAC685A14AC6BF48A467C87B622AFFA89A8603E4CCA50D69F151983278FEAF64BC0970521ADAB19B08192EC&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "15",
+		        "name": "小棋童",
+		        "singer": "双笙",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%B0%8F%E6%A3%8B%E7%AB%A5.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=FCD6F3638EA9DC00CF12A67B085F3786CAB1AE4C2A4D7CE37A6055B7808F631CB5686015D30F2E0EF4E5880C274A364E002A55E6F5F461B9&downloadType=1",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "14",
+		        "name": "The truth that you leave",
+		        "singer": "Pianoboy",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_The-truth-that-you-leave.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=5ECB9D3BBC8B5B507247AE94D7F27265F37CA37975A9983F0E452FDC237C535833917F8CF97B882CC51BDD96F63D1FA6043726102A22DB50&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "13",
+		        "name": "七里香",
+		        "singer": "周杰伦",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%83%E9%87%8C%E9%A6%99.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=C15E95DAFF88AA0D9FD39CB4F9654153E2C170D3128499DFEAA3D1A985049A2CEBBF3AF80D16E9546044AEB2711FA9D1E94274A5FEDF61D1&downloadType=1",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "12",
+		        "name": "Wake",
+		        "singer": "Hillsong Young And Free",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_wake.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=0FA96F4C38D1A2A94CF57DFDA9B2B740DC6CFA570C0743B6C00D152CBEC9A5DAEC8F28E7A0587533DDA5F034ED1DC418A8212BED00B51A1E&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "11",
+		        "name": "NCS Style Mix",
+		        "singer": "HOPE-T",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_NCS%C2%A0Style%C2%A0Mix.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=24CDEFF7F7CD78240ED9A30C586C5C469E7169EA45AD35187F49713FE0A5BEF06D1D26AAADA1E433453571D69FF56759D113AD7C3D28158D&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "10",
+		        "name": "寻",
+		        "singer": "三亩地",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CB7AF772957D719741DA1B0C8E4EBBAA5B6B433848B8A88986761911DD0D420D5E6959585C4002F3BE68F0D7E29012B60C40DBBF1459ED36&downloadType=1",
+		        "type": "纯音乐",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "9",
+		        "name": "Collapsing World(Original Mix)",
+		        "singer": "Lightscape",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Collapsing%20World%20%28Original%20Mix%29.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=8E36BA944B7D97940F8B5F254057E99F45B0C4D7A79B7BD6F7684568ECCE827B15D13501044CCC03965EFDCCC763C3D118384AA66AC58A51&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "8",
+		        "name": "Red",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=87AB6F46E3CE05027CB197A8EC903DFFB959E093631C8D83797DB78AD7900B65DDB3CA5EBE676AE9139DB17534B7D48B6D09DDFFAA896498&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "7",
+		        "name": "Blank Space",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=B7837467654B200A6DAB33453EFC5260E835D8786CBC86FA294BE47CF871008D115AF5593AA3BDE23F1AF267CBD2AD656204838B0B7A7F15&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "6",
+		        "name": "This Love",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=E9CAB184AEE88B00752DEE3CBBEAA6C684DCC38387753B050536F3186FEDF3B2A512F9150F69E76C8B73023DDD3EB4528F093C7076A54109&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "5",
+		        "name": "Such",
+		        "singer": "姜贤敏,赵贤雅",
+		        "img_url": "http://www.daiwei.org/index/music/musicImg/such.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/姜贤敏,赵贤雅 - Such.mp3",
+		        "type": "韩国",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "4",
+		        "name": "All Too Well",
+		        "singer": "Taylor Swift",
+		        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red-text.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=AF5D30CA7702FC16C2516B95EA09B6CEEEEDAB9D86DAACABD0224DE29C3413D971112E02B92D4866730621899791320DBD80F2EF052DAAB2&downloadType=1",
+		        "type": "霉霉 欧美",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "3",
+		        "name": "Faded",
+		        "singer": "Alan Walker",
+		        "img_url": "http://www.daiwei.org/index/music/musicImg/Faded.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=56992EB5A3912F9E9E3453DE2C12A57E6F6F3BFC7E42E36F55353126CE45F1DC96692512BFDBCA3C09DC213B4D76B871E9F4EDE87C480AD5&downloadType=1",
+		        "type": "纯音乐 电音",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "2",
+		        "name": "你的爱",
+		        "singer": "王力宏",
+		        "img_url": "http://www.daiwei.org/index/music/musicImg/王力宏-你的爱.jpg",
+		        "url": "http://oiq8j9er1.bkt.clouddn.com/王力宏 - 你的爱.mp3",
+		        "type": "华语",
+		    	"lyric": ""
+		    },
+		    {
+		        "id": "1",
+		        "name": "告白气球",
+		        "singer": "周杰伦",
+		        "img_url": "http://www.daiwei.org/index/music/musicImg/周杰伦-告白气球.jpg",
+		        "url": "http://cloud.189.cn/downloadFile.action?fileStr=039B82658E08EB2552B20CE046E7C374ED683B0C1E966C462C42CBFA232323D8873243969006F4541AAAF619E0087CB4ECE46DDBD9ADF862&downloadType=1",
+		        "type": "华语",
+		        "lyric": ""
+		    }
+    	],
+		"sheets":[
+			{
+				"name": "我创建的歌单",
+				"count": "5",
+				"detail": [
+					{
+						"name":"我喜欢的音乐",
+						"user":{
+							"name":"未曾遗忘的青春",
+							"avatar": "/static/images/userlogo.jpg"
+						},
+						"count":"30",
+						"type": "0",
+						"disc":"",
+						"tips":"",
+						"info":[
+							{
+						        "id": "88",
+						        "name": "Far Away",
+						        "singer": "Yinyues",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_far%20away.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=5172F8B05AB14F9EC256F65C67B778B489160D36788CF8C999D9210E6B929959C719540502102B7DD26AB3A197CE97D8F00A031453A6CC1B&downloadType=1",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "96",
+						        "name": "Fade（LaRry Rong Remix）",
+						        "singer": "LaRry Rong",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_faded-1.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/LaRry%C2%A0Rong%20-%20Fade%EF%BC%88LaRry%20Rong%20Remix%EF%BC%89.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "95",
+						        "name": "青年晚报",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_qingnianwanbao.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95A09918234A557EF3DB6AD0EF5756B77B7BF7B3C32123B06A9261CD93E2D828E23819E2767CC4422EDFEBEB8293EAECD848A02530E1C1C2&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "91",
+						        "name": "Falling",
+						        "singer": "AndyM",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Falling.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2620EE152D0DB5E65A59D2AA00A40D5AE40595CC95176C7F0D3BA69393136AD924126762EEC9AF740BBE67084A1307FA04A232DAAB777034&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "89",
+						        "name": "Memories",
+						        "singer": "Sappheiros",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_memories.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=83B2C25FAF68A0EBC121597010BC79B865EBA225155592BC10F563FB2FA78255D7C4363A3B66EA40EFB6A159C970F29CE540DC1839319B74&downloadType=1",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "87",
+						        "name": "China-O",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_chinaO.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-O.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "86",
+						        "name": "Summertime",
+						        "singer": "K-391",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Summertime%20.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=20678202B5AF7464997E24138126A23AA15BD25A6B8E536C82430C83A889CFBF65B13D11AB07FD439DC57AAF988CB50FB1A588D7B29FEE48&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "85",
+						        "name": "Disconnected (Original Mix)",
+						        "singer": "Pegboard Nerds",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_disconnected.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=595CCC846D5C8D79CB014A572EE3FBDC19309009CEA1197A096C24A8CB1B477F5F49BB730429BFAC5CE570FD903DDEB00D6F46E300AC8C27&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "84",
+						        "name": "Atmosphere",
+						        "singer": "CelDro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Atmosphere.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2959333EB70260D3886F987042680B450276722006EEDB3B060F0863CAB7F7A272DFB489C6735A1ABFE2DC0953CF6B304D63B1FB3E1498C9&downloadType=1",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "83",
+						        "name": "Sing Me to Sleep",
+						        "singer": "Alan Walker",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Sing%20Me%20to%20Sleep.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=331669342DC319B6DD34A966F758E7973D753AA925CA78D4DB7AA95B61F3D9AF7BF9E65DA12F6855CA5493AC04B2D43804E97E332721F660&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "78",
+						        "name": "河山大好",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B2%B3%E5%B1%B1%E5%A4%A7%E5%A5%BD.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "68",
+						        "name": "千百度",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%83%E7%99%BE%E5%BA%A6.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "67",
+						        "name": "玫瑰花的葬礼",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "66",
+						        "name": "ふたりの気持ち",
+						        "singer": "和田薫",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8A%AC%E5%A4%9C%E5%8F%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%92%8C%E7%94%B0%E8%96%AB%20-%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1.mp3",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "61",
+						        "name": "The Technicolor Phase",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_owl_city.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CB9FEC17E9CF9832CEC389C03EBC8EBA7E480BF8701EAEA51931B20D960EE9FA0C9264D05C51BA07513BCE155A7AAB7943691B33AC89CBE1&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "60",
+						        "name": "The Saltwater Room",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_The%20Saltwater%20Room.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=FACEFAE95F35FDD8358EFB673B4F3873ED5606D1159B947C11696E52008F7F1CB8AB2CF10D12FEF30BCC40DFA26F3666276A619C6128CC8E&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "59",
+						        "name": "Gold (Acoustic)",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_gold.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95187647AB8EF666A21F7F6FF709A36B07BFAFC19185775EA27A377A0F4B228044DB8BA03FCB74013C8BA6A5B184187D1AF062C568B7AF41&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "58",
+						        "name": "Enchanted",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_enchaned.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=0255C9A6820B33EDD35543D5A55410D56DFD8779A6C7045A0149335C62B28C4697111B2C24D90978982034F8563C73891933716079675759&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "43",
+						        "name": "Out Of The Woods",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F6D51186753242FE42DB8CD6C00C17E9F29CF585A1ADA23680597B657DFF010C83610B4C779A55746CA713FD8FC271957BD775F929687BDC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "42",
+						        "name": "New Romantics",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CF714DCEF25812AFCDA731735E47B4456DCB63C6079D5537A0B32BBB1662EA965B7F5665529CDCE8521A7FE8775B644927C464B4696F56F9&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "41",
+						        "name": "I Know Places",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AE61453855420C39492867D2AC30B8188AD22FD8A6ADF1799A8E2D3E66D893C4B49B5CCAD55955524D7120DA35C0130CD801EE0F57F771A&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "40",
+						        "name": "How You Get The Girl",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=D4ED9226A9113559911D9E760DB4D3D4E711AD13C61858568659DDD770E4720B65EC0859C8E6B28B86D8211008D7EB85309E2E1285E64229&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "39",
+						        "name": "Clean",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=896A4D28F19A1CFB61FFA25E2F588826C1FB42A0D578E197E8833BFF88B68A829DE028A01FE3B6BCCE2CA5DBA9DA8A703E9765526374ECD4&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "38",
+						        "name": "I Wish You Would",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1567A845E9AAD3C565466059FC3880ACA04866781E0EB783ACECC769975373368EB55DF164D9A5C5E3F35168ED59315B6A6CE41FBA53ADAC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "37",
+						        "name": "All You Had To Do Was Stay",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=3869DD6478A16A1E1F51AE5827747A7D9D6E5B1ED832B4FEC672641EBD659E11D8E53B1F97884F64C1094F5A923E871C238B472317DD6BEF&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "36",
+						        "name": "不同",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E4%B8%8D%E5%90%8C.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "33",
+						        "name": "Comptine D'un Autre ?té, L'après-Midi",
+						        "singer": "Yann Tiersen",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Comptine%20D%27un%20Autre%20%C3%89t%C3%A9,%20L%27apr%C3%A8s-Midi.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=DE04EA13A323A42ADD3278D71EBADFDFA1B8D95E4C456BDFFAB3F65699528C2847226E56EB4E34B89B55B7408C93513A78823AD050C1B823&downloadType=1",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "32",
+						        "name": "Leave Out All The Rest",
+						        "singer": "Linkin Park",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Leave%20Out%20All%20The%20Rest.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=63E557E92E5D942320CB7025CBFF8632CAEF1E874E8FBC7DE22307A65EDE7C902DA3BDCF18DA01DB1F452808FF2131B6766D2713940F31A5&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "31",
+						        "name": "我以为我可以",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=490442FDF15504E5FF324BFD569988E4F9CC505ED3291FB9F3248CB1A38B5FA4E1C3C49F0D5DC86F463FF260FE997CB282A04E5A7B29DC11&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "30",
+						        "name": "PneumaticTokyo",
+						        "singer": "EnV",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_PneumaticTokyo.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=94A921C257EDEF794E747EF67C9E5FC9C191F5921DA71862B3EFC4413A3FD09058B856CF68AAEE49A1A2B0B22E8A09DFFC9CD457F9D44AF5&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    }
+				    	]
+					},
+					{
+						"name":"在欧洲田园般的乡村上骑单车",
+						"count":"15",
+						"type": "1",
+						"disc":"听着欧美的乡村音乐,只需要静静的听,你就可以感受到安静的味道,让你切身体会在欧洲田园般的乡村上骑单车的感觉",
+						"tips":["欧美","乡村","安静"],
+						"user":{
+							"name":"未曾遗忘的青春",
+							"avatar": "/static/images/userlogo.jpg"
+						},
+						"info":[
+							{
+						        "id": "61",
+						        "name": "The Technicolor Phase",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_owl_city.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CB9FEC17E9CF9832CEC389C03EBC8EBA7E480BF8701EAEA51931B20D960EE9FA0C9264D05C51BA07513BCE155A7AAB7943691B33AC89CBE1&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+							{
+						        "id": "83",
+						        "name": "Sing Me to Sleep",
+						        "singer": "Alan Walker",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Sing%20Me%20to%20Sleep.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=331669342DC319B6DD34A966F758E7973D753AA925CA78D4DB7AA95B61F3D9AF7BF9E65DA12F6855CA5493AC04B2D43804E97E332721F660&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "60",
+						        "name": "The Saltwater Room",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_The%20Saltwater%20Room.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=FACEFAE95F35FDD8358EFB673B4F3873ED5606D1159B947C11696E52008F7F1CB8AB2CF10D12FEF30BCC40DFA26F3666276A619C6128CC8E&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "59",
+						        "name": "Gold (Acoustic)",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_gold.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95187647AB8EF666A21F7F6FF709A36B07BFAFC19185775EA27A377A0F4B228044DB8BA03FCB74013C8BA6A5B184187D1AF062C568B7AF41&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "58",
+						        "name": "Enchanted",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_enchaned.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=0255C9A6820B33EDD35543D5A55410D56DFD8779A6C7045A0149335C62B28C4697111B2C24D90978982034F8563C73891933716079675759&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "57",
+						        "name": "Beautiful Times",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_beautiful_times.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=558BB97B3C5D18CF7C28FF5E4D9A05979F1A9561CBEF6D78D0ABA3EAC41E735CC2DE47A47A4DA93C73B556338C75FAC101F36A984B5D206F&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "56",
+						        "name": "Fuzzy Blue Lights",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Fuzzy%20Blue%20Lights.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=6393160FA6431080F40D3B1064B0E85D9DC4F7B12B5BC2A63140200F21819619EA0752DBA4F4F471FE279D5F9E1227C27F0DE1520C9357C0&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "55",
+						        "name": "You're not alone",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_You%E2%80%99re%20Not%20Alone.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/Owl%20City,Britt%20Nicole%20-%20You%E2%80%99re%20Not%20Alone.mp3",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "47",
+						        "name": "You Are In Love",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=5725D17CDCA95AC7524D220174D97A147A62AFB78F54D473199E903A3C92D3D7F23EF07758FA0F753C3FB6BBC54CFC2676920CA16305B766&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "32",
+						        "name": "Leave Out All The Rest",
+						        "singer": "Linkin Park",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Leave%20Out%20All%20The%20Rest.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=63E557E92E5D942320CB7025CBFF8632CAEF1E874E8FBC7DE22307A65EDE7C902DA3BDCF18DA01DB1F452808FF2131B6766D2713940F31A5&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "29",
+						        "name": "Think Again",
+						        "singer": "Kate Havnevik",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Think%20Again.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=90945B3777B3425860A8BE3A8F38D1A1AE25EE4FDA3D077B53D8330A6885DCCEE1CFC2AFB70B40AA61C921417130278A381F1169554B3C54&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "8",
+						        "name": "Red",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=87AB6F46E3CE05027CB197A8EC903DFFB959E093631C8D83797DB78AD7900B65DDB3CA5EBE676AE9139DB17534B7D48B6D09DDFFAA896498&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "7",
+						        "name": "Blank Space",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=B7837467654B200A6DAB33453EFC5260E835D8786CBC86FA294BE47CF871008D115AF5593AA3BDE23F1AF267CBD2AD656204838B0B7A7F15&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "6",
+						        "name": "This Love",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=E9CAB184AEE88B00752DEE3CBBEAA6C684DCC38387753B050536F3186FEDF3B2A512F9150F69E76C8B73023DDD3EB4528F093C7076A54109&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "4",
+						        "name": "All Too Well",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red-text.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=AF5D30CA7702FC16C2516B95EA09B6CEEEEDAB9D86DAACABD0224DE29C3413D971112E02B92D4866730621899791320DBD80F2EF052DAAB2&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    }
+						]
+					},
+					{
+						"name":"大卫爱上泰勒斯威夫特",
+						"count":"15",
+						"type": "2",
+						"disc":"没错,他就是我喜欢的女歌手,霉霉,乡村风格的歌曲,HHH!",
+						"tips":["霉霉","乡村","欧美"],
+						"user":{
+							"name":"未曾遗忘的青春",
+							"avatar": "/static/images/userlogo.jpg"
+						},
+						"info": [
+						    {
+						        "id": "47",
+						        "name": "You Are In Love",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=5725D17CDCA95AC7524D220174D97A147A62AFB78F54D473199E903A3C92D3D7F23EF07758FA0F753C3FB6BBC54CFC2676920CA16305B766&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "46",
+						        "name": "Wonderland",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=8947EFA09B9B79F784E64C28260DC32DC821939A68CF5856DD57B56DCA3FA10B1AD873765CE9C051D3D65954FCFF7C0E699BD0849609D269&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "45",
+						        "name": "Wildest Dreams",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/Taylor%20Swift%20-%20Wildest%20Dreams.mp3",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "44",
+						        "name": "Style",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=220DEFFDAFEE5CFEA093F4BF05216E1EACCFEA5ABF2A7967688545AD70C74BC5F9193259AB61EA5874293DAE9490ADA78B8B800E342CD9ED&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "43",
+						        "name": "Out Of The Woods",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F6D51186753242FE42DB8CD6C00C17E9F29CF585A1ADA23680597B657DFF010C83610B4C779A55746CA713FD8FC271957BD775F929687BDC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "42",
+						        "name": "New Romantics",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CF714DCEF25812AFCDA731735E47B4456DCB63C6079D5537A0B32BBB1662EA965B7F5665529CDCE8521A7FE8775B644927C464B4696F56F9&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "41",
+						        "name": "I Know Places",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AE61453855420C39492867D2AC30B8188AD22FD8A6ADF1799A8E2D3E66D893C4B49B5CCAD55955524D7120DA35C0130CD801EE0F57F771A&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "40",
+						        "name": "How You Get The Girl",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=D4ED9226A9113559911D9E760DB4D3D4E711AD13C61858568659DDD770E4720B65EC0859C8E6B28B86D8211008D7EB85309E2E1285E64229&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "39",
+						        "name": "Clean",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=896A4D28F19A1CFB61FFA25E2F588826C1FB42A0D578E197E8833BFF88B68A829DE028A01FE3B6BCCE2CA5DBA9DA8A703E9765526374ECD4&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "38",
+						        "name": "I Wish You Would",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1567A845E9AAD3C565466059FC3880ACA04866781E0EB783ACECC769975373368EB55DF164D9A5C5E3F35168ED59315B6A6CE41FBA53ADAC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "37",
+						        "name": "All You Had To Do Was Stay",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=3869DD6478A16A1E1F51AE5827747A7D9D6E5B1ED832B4FEC672641EBD659E11D8E53B1F97884F64C1094F5A923E871C238B472317DD6BEF&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "8",
+						        "name": "Red",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=87AB6F46E3CE05027CB197A8EC903DFFB959E093631C8D83797DB78AD7900B65DDB3CA5EBE676AE9139DB17534B7D48B6D09DDFFAA896498&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "7",
+						        "name": "Blank Space",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=B7837467654B200A6DAB33453EFC5260E835D8786CBC86FA294BE47CF871008D115AF5593AA3BDE23F1AF267CBD2AD656204838B0B7A7F15&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "6",
+						        "name": "This Love",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=E9CAB184AEE88B00752DEE3CBBEAA6C684DCC38387753B050536F3186FEDF3B2A512F9150F69E76C8B73023DDD3EB4528F093C7076A54109&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "4",
+						        "name": "All Too Well",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red-text.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=AF5D30CA7702FC16C2516B95EA09B6CEEEEDAB9D86DAACABD0224DE29C3413D971112E02B92D4866730621899791320DBD80F2EF052DAAB2&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    }
+						]
+					},
+					{
+						"name":"【电音】抖腿必备",
+						"count":"19",
+						"type": "3",
+						"disc":"绝对是我听过最棒的,不分享出来太可惜了,歌单会长期更新,欢迎围观订阅",
+						"tips":["电音"],
+						"user":{
+							"name":"未曾遗忘的青春",
+							"avatar": "/static/images/userlogo.jpg"
+						},
+						"info": [
+						    {
+						        "id": "96",
+						        "name": "Fade（LaRry Rong Remix）",
+						        "singer": "LaRry Rong",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_faded-1.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/LaRry%C2%A0Rong%20-%20Fade%EF%BC%88LaRry%20Rong%20Remix%EF%BC%89.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "91",
+						        "name": "Falling",
+						        "singer": "AndyM",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Falling.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2620EE152D0DB5E65A59D2AA00A40D5AE40595CC95176C7F0D3BA69393136AD924126762EEC9AF740BBE67084A1307FA04A232DAAB777034&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "87",
+						        "name": "China-O",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_chinaO.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-O.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "86",
+						        "name": "Summertime",
+						        "singer": "K-391",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Summertime%20.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=20678202B5AF7464997E24138126A23AA15BD25A6B8E536C82430C83A889CFBF65B13D11AB07FD439DC57AAF988CB50FB1A588D7B29FEE48&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "85",
+						        "name": "Disconnected (Original Mix)",
+						        "singer": "Pegboard Nerds",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_disconnected.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=595CCC846D5C8D79CB014A572EE3FBDC19309009CEA1197A096C24A8CB1B477F5F49BB730429BFAC5CE570FD903DDEB00D6F46E300AC8C27&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "54",
+						        "name": "Remember Me (Original Mix)",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_remenberme.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=6C6E29455F5C239DEE26F1F127179466E87D62C0BF14A2380F6CEFDCAB35B76A40F2FAE2AF6013CC1F89DEFCB78996E6200C1C68F93354D8&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "53",
+						        "name": "Thank You (Original Mix)",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_thankyou.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2EFADD6199E1410D5AFD17D5BFCA716A3CBB8AAE7410ED2916794FF1B2DC749BC03CE4520AA376E48437A034EE6F374014DFE0333FA54881&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "52",
+						        "name": "Together",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_together.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1A83E5B66CA15C683F62B9371C50AA9B375B3D16B6E6792EA1718A9946F0A2FD9283F617C562679BBB7B4E11BDE8E9FA5CAE924B2B62410D&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "51",
+						        "name": "Autumn (Original Mix)",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_autumn.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F9840C8A05C98AE60AAEE4E019B9C7500AD040EC32F6CD765CDADA74D8CA4A045B3763EA97CC54E17698EE7A24F48CC38F10BB2663F69A47&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "30",
+						        "name": "PneumaticTokyo",
+						        "singer": "EnV",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_PneumaticTokyo.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=94A921C257EDEF794E747EF67C9E5FC9C191F5921DA71862B3EFC4413A3FD09058B856CF68AAEE49A1A2B0B22E8A09DFFC9CD457F9D44AF5&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "28",
+						        "name": "Endless",
+						        "singer": "Natio",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_endless.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AA16A5E1B7F96C72DBCE1687BC1DE74B8C8B04B672BC1FDD3F59193B56F5CF6090459C510368817E1992A8DA628E507066DC289DFC686D8&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "26",
+						        "name": "Color-X 3D",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_color-3d.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20color-X%203D.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "20",
+						        "name": "China-X",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_china.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-X.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "18",
+						        "name": "China-A",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_china.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-A.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "17",
+						        "name": "Visions",
+						        "singer": "Vief",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_visions1.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=57BEB0B7668F399C75CEF35E584118ADEA46A37A5C2C9FCD2BE853915A9AB0C39580EE846A9C85E34B620C0E044E93D62DA786E3C1131FEA&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "16",
+						        "name": "Visions",
+						        "singer": "Acreix",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_visions.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F37AEAB3F475516D61A2C5EC7BAC685A14AC6BF48A467C87B622AFFA89A8603E4CCA50D69F151983278FEAF64BC0970521ADAB19B08192EC&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "11",
+						        "name": "NCS Style Mix",
+						        "singer": "HOPE-T",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_NCS%C2%A0Style%C2%A0Mix.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=24CDEFF7F7CD78240ED9A30C586C5C469E7169EA45AD35187F49713FE0A5BEF06D1D26AAADA1E433453571D69FF56759D113AD7C3D28158D&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "9",
+						        "name": "Collapsing World(Original Mix)",
+						        "singer": "Lightscape",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Collapsing%20World%20%28Original%20Mix%29.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=8E36BA944B7D97940F8B5F254057E99F45B0C4D7A79B7BD6F7684568ECCE827B15D13501044CCC03965EFDCCC763C3D118384AA66AC58A51&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "3",
+						        "name": "Faded",
+						        "singer": "Alan Walker",
+						        "img_url": "http://www.daiwei.org/index/music/musicImg/Faded.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=56992EB5A3912F9E9E3453DE2C12A57E6F6F3BFC7E42E36F55353126CE45F1DC96692512BFDBCA3C09DC213B4D76B871E9F4EDE87C480AD5&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    }
+						]
+					},
+					{
+						"name":"华语经典,是青春,是回忆",
+						"count":"36",
+						"type": "4",
+						"disc":"这是我的青春,也是我的回忆,小学初中的林俊杰,初中高中的许嵩,有时候再听听会有很不一样的感觉",
+						"tips":["华语","林俊杰","许嵩"],
+						"user":{
+							"name":"未曾遗忘的青春",
+							"avatar": "/static/images/userlogo.jpg"
+						},
+						"info": [
+				    		{
+						        "id": "110",
+						        "name": "小酒窝",
+						        "singer": "林俊杰,蔡卓妍",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0,%E8%94%A1%E5%8D%93%E5%A6%8D%20-%20%E5%B0%8F%E9%85%92%E7%AA%9D.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "109",
+						        "name": "一千年以后",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E4%B8%80%E5%8D%83%E5%B9%B4%E4%BB%A5%E5%90%8E.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "107",
+						        "name": "那些你很冒险的梦",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%BE%88%E5%86%92%E9%99%A9%E7%9A%84%E6%A2%A6.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%BE%88%E5%86%92%E9%99%A9%E7%9A%84%E6%A2%A6.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "106",
+						        "name": "可惜没如果",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%8F%AF%E6%83%9C%E6%B2%A1%E6%9C%89%E5%A6%82%E6%9E%9C.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E5%8F%AF%E6%83%9C%E6%B2%A1%E5%A6%82%E6%9E%9C.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "105",
+						        "name": "她说",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E5%A5%B9%E8%AF%B4.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "104",
+						        "name": "修炼爱情",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%BF%AE%E7%82%BC%E7%88%B1%E6%83%85.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E4%BF%AE%E7%82%BC%E7%88%B1%E6%83%85.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "103",
+						        "name": "当你",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E5%BD%93%E4%BD%A0.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "101",
+						        "name": "不为谁而作的歌",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E4%B8%8D%E4%B8%BA%E8%B0%81%E8%80%8C%E4%BD%9C%E7%9A%84%E6%AD%8C.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "100",
+						        "name": "爱笑的眼睛",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E7%88%B1%E7%AC%91%E7%9A%84%E7%9C%BC%E7%9D%9B.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "98",
+						        "name": "江南",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%B1%9F%E5%8D%97.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E6%B1%9F%E5%8D%97.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "97",
+						        "name": "我还想她",
+						        "singer": "林俊杰",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E6%88%91%E8%BF%98%E6%83%B3%E5%A5%B9.mp3",
+						        "type": "华语 林俊杰",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "96",
+						        "name": "Fade（LaRry Rong Remix）",
+						        "singer": "LaRry Rong",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_faded-1.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/LaRry%C2%A0Rong%20-%20Fade%EF%BC%88LaRry%20Rong%20Remix%EF%BC%89.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "95",
+						        "name": "青年晚报",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_qingnianwanbao.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95A09918234A557EF3DB6AD0EF5756B77B7BF7B3C32123B06A9261CD93E2D828E23819E2767CC4422EDFEBEB8293EAECD848A02530E1C1C2&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "82",
+						        "name": "灰色头像",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB%E9%9B%BE%E5%90%AF%E4%BA%8B.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%81%B0%E8%89%B2%E5%A4%B4%E5%83%8F.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "81",
+						        "name": "半城烟沙",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "80",
+						        "name": "多余的解释",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%A4%9A%E4%BD%99%E7%9A%84%E8%A7%A3%E9%87%8A.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "79",
+						        "name": "惊鸿一面",
+						        "singer": "许嵩,黄龄",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%8D%E5%A6%82%E5%90%83%E8%8C%B6%E5%8E%BB.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4962389182DD51B8B834197D63DDA26B7907A24C83015411CFE721C0D0C2A3CC5FCD6FB07B413AE01C87C00F4FC728FEDA90A024F642E69A&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "78",
+						        "name": "河山大好",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B2%B3%E5%B1%B1%E5%A4%A7%E5%A5%BD.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "75",
+						        "name": "想象之中",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1698FEBA38FADA66CB22C0ECC710CDE89AF02D4BBDB8BAE15A2CBB1D5A79A4AC3E3BDD7AD32D8C7E15FF00DBA530FCCC19580726071B2EA3&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "74",
+						        "name": "山水之间",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%8D%E5%A6%82%E5%90%83%E8%8C%B6%E5%8E%BB.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=315152ED8504F988C087698661A2A134F3070B0D7D20F23BFB905F37AA06FE7900A8E8F6A9E7D169B08BCCE12816DE64785C169408D5B42B&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "73",
+						        "name": "有何不可",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%9C%89%E4%BD%95%E4%B8%8D%E5%8F%AF.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "72",
+						        "name": "清明雨上",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B8%85%E6%98%8E%E9%9B%A8%E4%B8%8A.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "71",
+						        "name": "拆东墙",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%8B%86%E4%B8%9C%E5%A2%99.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "70",
+						        "name": "庐州月",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB%E9%9B%BE%E5%90%AF%E4%BA%8B.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%BA%90%E5%B7%9E%E6%9C%88.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "69",
+						        "name": "幻听",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%A2%A6%E6%B8%B8%E8%AE%B0.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%B9%BB%E5%90%AC.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "68",
+						        "name": "千百度",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%83%E7%99%BE%E5%BA%A6.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "67",
+						        "name": "玫瑰花的葬礼",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "36",
+						        "name": "不同",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E4%B8%8D%E5%90%8C.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "35",
+						        "name": "采茶纪",
+						        "singer": "双笙",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E9%87%87%E8%8C%B6%E8%AE%B0.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=96D5CE4255BACD9BB3E8D2C832BB21841BD35026FB80FD192CD411865121B09D720BAA29A781950819C0880CB5D121E7AC70CE079B03FC1E&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "31",
+						        "name": "我以为我可以",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=490442FDF15504E5FF324BFD569988E4F9CC505ED3291FB9F3248CB1A38B5FA4E1C3C49F0D5DC86F463FF260FE997CB282A04E5A7B29DC11&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "27",
+						        "name": "再见了单纯",
+						        "singer": "小5",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%86%8D%E8%A7%81%E4%BA%86%20%E5%8D%95%E7%BA%AF.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%B0%8F5%20-%20%E5%86%8D%E8%A7%81%E4%BA%86%E5%8D%95%E7%BA%AF.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "25",
+						        "name": "外面的世界",
+						        "singer": "莫文蔚 ",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%8E%AB%E6%96%87%E8%94%9A%20-%20%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "24",
+						        "name": "童话镇",
+						        "singer": "陈一发儿",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%AB%A5%E8%AF%9D%E9%95%87.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%20-%20%E7%AB%A5%E8%AF%9D%E9%95%87.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "19",
+						        "name": "爱与诚",
+						        "singer": "古巨基",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%88%B1%E4%B8%8E%E8%AF%9A.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=EC04F55E4555ABAE16068213C19B96A2597404878D75A9D5BADC1CA38DD588DB407097C7FA527FF6AC267687D1B65F5F68CC38DF148F5DD3&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "2",
+						        "name": "你的爱",
+						        "singer": "王力宏",
+						        "img_url": "http://www.daiwei.org/index/music/musicImg/王力宏-你的爱.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/王力宏 - 你的爱.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "1",
+						        "name": "告白气球",
+						        "singer": "周杰伦",
+						        "img_url": "http://www.daiwei.org/index/music/musicImg/周杰伦-告白气球.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=039B82658E08EB2552B20CE046E7C374ED683B0C1E966C462C42CBFA232323D8873243969006F4541AAAF619E0087CB4ECE46DDBD9ADF862&downloadType=1",
+						        "type": "华语",
+						        "lyric": ""
+						    }
+				    	]
+					}
+				]
+			},
+			{
+				"name": "我收藏的歌单",
+				"count": "5",
+				"detail": [
+					{
+						"name":"这应该是你比较喜欢听的歌曲了",
+						"count":"25",
+						"disc":"这是电音专辑,有徐梦圆,Alan Walker,也有华语许嵩等等的歌曲,算是混搭吧,嘻嘻...",
+						"tips":["华语","电音"],
+						"user":{
+							"name":"自然卷mmmm",
+							"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_Summertime%20.jpg"
+						},
+						"info":[
+						    {
+						        "id": "87",
+						        "name": "China-O",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_chinaO.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-O.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "86",
+						        "name": "Summertime",
+						        "singer": "K-391",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Summertime%20.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=20678202B5AF7464997E24138126A23AA15BD25A6B8E536C82430C83A889CFBF65B13D11AB07FD439DC57AAF988CB50FB1A588D7B29FEE48&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "85",
+						        "name": "Disconnected (Original Mix)",
+						        "singer": "Pegboard Nerds",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_disconnected.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=595CCC846D5C8D79CB014A572EE3FBDC19309009CEA1197A096C24A8CB1B477F5F49BB730429BFAC5CE570FD903DDEB00D6F46E300AC8C27&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "84",
+						        "name": "Atmosphere",
+						        "singer": "CelDro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Atmosphere.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2959333EB70260D3886F987042680B450276722006EEDB3B060F0863CAB7F7A272DFB489C6735A1ABFE2DC0953CF6B304D63B1FB3E1498C9&downloadType=1",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "83",
+						        "name": "Sing Me to Sleep",
+						        "singer": "Alan Walker",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Sing%20Me%20to%20Sleep.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=331669342DC319B6DD34A966F758E7973D753AA925CA78D4DB7AA95B61F3D9AF7BF9E65DA12F6855CA5493AC04B2D43804E97E332721F660&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "78",
+						        "name": "河山大好",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B2%B3%E5%B1%B1%E5%A4%A7%E5%A5%BD.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "68",
+						        "name": "千百度",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%83%E7%99%BE%E5%BA%A6.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "67",
+						        "name": "玫瑰花的葬礼",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "66",
+						        "name": "ふたりの気持ち",
+						        "singer": "和田薫",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8A%AC%E5%A4%9C%E5%8F%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%92%8C%E7%94%B0%E8%96%AB%20-%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1.mp3",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "61",
+						        "name": "The Technicolor Phase",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_owl_city.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CB9FEC17E9CF9832CEC389C03EBC8EBA7E480BF8701EAEA51931B20D960EE9FA0C9264D05C51BA07513BCE155A7AAB7943691B33AC89CBE1&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "60",
+						        "name": "The Saltwater Room",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_The%20Saltwater%20Room.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=FACEFAE95F35FDD8358EFB673B4F3873ED5606D1159B947C11696E52008F7F1CB8AB2CF10D12FEF30BCC40DFA26F3666276A619C6128CC8E&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "59",
+						        "name": "Gold (Acoustic)",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_gold.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95187647AB8EF666A21F7F6FF709A36B07BFAFC19185775EA27A377A0F4B228044DB8BA03FCB74013C8BA6A5B184187D1AF062C568B7AF41&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "58",
+						        "name": "Enchanted",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_enchaned.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=0255C9A6820B33EDD35543D5A55410D56DFD8779A6C7045A0149335C62B28C4697111B2C24D90978982034F8563C73891933716079675759&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "43",
+						        "name": "Out Of The Woods",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F6D51186753242FE42DB8CD6C00C17E9F29CF585A1ADA23680597B657DFF010C83610B4C779A55746CA713FD8FC271957BD775F929687BDC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "42",
+						        "name": "New Romantics",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CF714DCEF25812AFCDA731735E47B4456DCB63C6079D5537A0B32BBB1662EA965B7F5665529CDCE8521A7FE8775B644927C464B4696F56F9&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "41",
+						        "name": "I Know Places",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AE61453855420C39492867D2AC30B8188AD22FD8A6ADF1799A8E2D3E66D893C4B49B5CCAD55955524D7120DA35C0130CD801EE0F57F771A&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "40",
+						        "name": "How You Get The Girl",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=D4ED9226A9113559911D9E760DB4D3D4E711AD13C61858568659DDD770E4720B65EC0859C8E6B28B86D8211008D7EB85309E2E1285E64229&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "39",
+						        "name": "Clean",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=896A4D28F19A1CFB61FFA25E2F588826C1FB42A0D578E197E8833BFF88B68A829DE028A01FE3B6BCCE2CA5DBA9DA8A703E9765526374ECD4&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "38",
+						        "name": "I Wish You Would",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1567A845E9AAD3C565466059FC3880ACA04866781E0EB783ACECC769975373368EB55DF164D9A5C5E3F35168ED59315B6A6CE41FBA53ADAC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "37",
+						        "name": "All You Had To Do Was Stay",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=3869DD6478A16A1E1F51AE5827747A7D9D6E5B1ED832B4FEC672641EBD659E11D8E53B1F97884F64C1094F5A923E871C238B472317DD6BEF&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "36",
+						        "name": "不同",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E4%B8%8D%E5%90%8C.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "33",
+						        "name": "Comptine D'un Autre ?té, L'après-Midi",
+						        "singer": "Yann Tiersen",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Comptine%20D%27un%20Autre%20%C3%89t%C3%A9,%20L%27apr%C3%A8s-Midi.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=DE04EA13A323A42ADD3278D71EBADFDFA1B8D95E4C456BDFFAB3F65699528C2847226E56EB4E34B89B55B7408C93513A78823AD050C1B823&downloadType=1",
+						        "type": "纯音乐",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "32",
+						        "name": "Leave Out All The Rest",
+						        "singer": "Linkin Park",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Leave%20Out%20All%20The%20Rest.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=63E557E92E5D942320CB7025CBFF8632CAEF1E874E8FBC7DE22307A65EDE7C902DA3BDCF18DA01DB1F452808FF2131B6766D2713940F31A5&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "31",
+						        "name": "我以为我可以",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=490442FDF15504E5FF324BFD569988E4F9CC505ED3291FB9F3248CB1A38B5FA4E1C3C49F0D5DC86F463FF260FE997CB282A04E5A7B29DC11&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "30",
+						        "name": "PneumaticTokyo",
+						        "singer": "EnV",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_PneumaticTokyo.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=94A921C257EDEF794E747EF67C9E5FC9C191F5921DA71862B3EFC4413A3FD09058B856CF68AAEE49A1A2B0B22E8A09DFFC9CD457F9D44AF5&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    }
+				    	]
+					},
+					{
+						"name":"欧美风格的音乐，安静的听",
+						"count":"13",
+						"disc":"欧美风,时尚简约,歌曲都是那么清澈!",
+						"tips":["欧美","Taylor-Swift"],
+						"user":{
+							"name":"升柒君",
+							"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_You%E2%80%99re%20Not%20Alone.jpg"
+						},
+						"info":[
+							{
+						        "id": "55",
+						        "name": "You're not alone",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_You%E2%80%99re%20Not%20Alone.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/Owl%20City,Britt%20Nicole%20-%20You%E2%80%99re%20Not%20Alone.mp3",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "60",
+						        "name": "The Saltwater Room",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_The%20Saltwater%20Room.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=FACEFAE95F35FDD8358EFB673B4F3873ED5606D1159B947C11696E52008F7F1CB8AB2CF10D12FEF30BCC40DFA26F3666276A619C6128CC8E&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "59",
+						        "name": "Gold (Acoustic)",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_gold.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95187647AB8EF666A21F7F6FF709A36B07BFAFC19185775EA27A377A0F4B228044DB8BA03FCB74013C8BA6A5B184187D1AF062C568B7AF41&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "58",
+						        "name": "Enchanted",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_enchaned.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=0255C9A6820B33EDD35543D5A55410D56DFD8779A6C7045A0149335C62B28C4697111B2C24D90978982034F8563C73891933716079675759&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "57",
+						        "name": "Beautiful Times",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_beautiful_times.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=558BB97B3C5D18CF7C28FF5E4D9A05979F1A9561CBEF6D78D0ABA3EAC41E735CC2DE47A47A4DA93C73B556338C75FAC101F36A984B5D206F&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "56",
+						        "name": "Fuzzy Blue Lights",
+						        "singer": "Owl City",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Fuzzy%20Blue%20Lights.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=6393160FA6431080F40D3B1064B0E85D9DC4F7B12B5BC2A63140200F21819619EA0752DBA4F4F471FE279D5F9E1227C27F0DE1520C9357C0&downloadType=1",
+						        "type": "Owl City 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "47",
+						        "name": "You Are In Love",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=5725D17CDCA95AC7524D220174D97A147A62AFB78F54D473199E903A3C92D3D7F23EF07758FA0F753C3FB6BBC54CFC2676920CA16305B766&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "32",
+						        "name": "Leave Out All The Rest",
+						        "singer": "Linkin Park",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Leave%20Out%20All%20The%20Rest.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=63E557E92E5D942320CB7025CBFF8632CAEF1E874E8FBC7DE22307A65EDE7C902DA3BDCF18DA01DB1F452808FF2131B6766D2713940F31A5&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "29",
+						        "name": "Think Again",
+						        "singer": "Kate Havnevik",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Think%20Again.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=90945B3777B3425860A8BE3A8F38D1A1AE25EE4FDA3D077B53D8330A6885DCCEE1CFC2AFB70B40AA61C921417130278A381F1169554B3C54&downloadType=1",
+						        "type": "欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "8",
+						        "name": "Red",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=87AB6F46E3CE05027CB197A8EC903DFFB959E093631C8D83797DB78AD7900B65DDB3CA5EBE676AE9139DB17534B7D48B6D09DDFFAA896498&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "7",
+						        "name": "Blank Space",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=B7837467654B200A6DAB33453EFC5260E835D8786CBC86FA294BE47CF871008D115AF5593AA3BDE23F1AF267CBD2AD656204838B0B7A7F15&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "6",
+						        "name": "This Love",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=E9CAB184AEE88B00752DEE3CBBEAA6C684DCC38387753B050536F3186FEDF3B2A512F9150F69E76C8B73023DDD3EB4528F093C7076A54109&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "4",
+						        "name": "All Too Well",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red-text.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=AF5D30CA7702FC16C2516B95EA09B6CEEEEDAB9D86DAACABD0224DE29C3413D971112E02B92D4866730621899791320DBD80F2EF052DAAB2&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    }
+						]
+					},
+					{
+						"name":"我心爱的霉霉",
+						"count":"14",
+						"disc":"霉霉,大爱不解释",
+						"tips":["霉霉","Taylor-Swift"],
+						"user":{
+							"name":"ProdByRachel",
+							"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg"
+						},
+						"info": [
+							{
+						        "id": "8",
+						        "name": "Red",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=87AB6F46E3CE05027CB197A8EC903DFFB959E093631C8D83797DB78AD7900B65DDB3CA5EBE676AE9139DB17534B7D48B6D09DDFFAA896498&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "46",
+						        "name": "Wonderland",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=8947EFA09B9B79F784E64C28260DC32DC821939A68CF5856DD57B56DCA3FA10B1AD873765CE9C051D3D65954FCFF7C0E699BD0849609D269&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "45",
+						        "name": "Wildest Dreams",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/Taylor%20Swift%20-%20Wildest%20Dreams.mp3",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "44",
+						        "name": "Style",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=220DEFFDAFEE5CFEA093F4BF05216E1EACCFEA5ABF2A7967688545AD70C74BC5F9193259AB61EA5874293DAE9490ADA78B8B800E342CD9ED&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "43",
+						        "name": "Out Of The Woods",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F6D51186753242FE42DB8CD6C00C17E9F29CF585A1ADA23680597B657DFF010C83610B4C779A55746CA713FD8FC271957BD775F929687BDC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "42",
+						        "name": "New Romantics",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CF714DCEF25812AFCDA731735E47B4456DCB63C6079D5537A0B32BBB1662EA965B7F5665529CDCE8521A7FE8775B644927C464B4696F56F9&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "41",
+						        "name": "I Know Places",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AE61453855420C39492867D2AC30B8188AD22FD8A6ADF1799A8E2D3E66D893C4B49B5CCAD55955524D7120DA35C0130CD801EE0F57F771A&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "40",
+						        "name": "How You Get The Girl",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=D4ED9226A9113559911D9E760DB4D3D4E711AD13C61858568659DDD770E4720B65EC0859C8E6B28B86D8211008D7EB85309E2E1285E64229&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "39",
+						        "name": "Clean",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=896A4D28F19A1CFB61FFA25E2F588826C1FB42A0D578E197E8833BFF88B68A829DE028A01FE3B6BCCE2CA5DBA9DA8A703E9765526374ECD4&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "38",
+						        "name": "I Wish You Would",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1567A845E9AAD3C565466059FC3880ACA04866781E0EB783ACECC769975373368EB55DF164D9A5C5E3F35168ED59315B6A6CE41FBA53ADAC&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "37",
+						        "name": "All You Had To Do Was Stay",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=3869DD6478A16A1E1F51AE5827747A7D9D6E5B1ED832B4FEC672641EBD659E11D8E53B1F97884F64C1094F5A923E871C238B472317DD6BEF&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "7",
+						        "name": "Blank Space",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=B7837467654B200A6DAB33453EFC5260E835D8786CBC86FA294BE47CF871008D115AF5593AA3BDE23F1AF267CBD2AD656204838B0B7A7F15&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "6",
+						        "name": "This Love",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=E9CAB184AEE88B00752DEE3CBBEAA6C684DCC38387753B050536F3186FEDF3B2A512F9150F69E76C8B73023DDD3EB4528F093C7076A54109&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "4",
+						        "name": "All Too Well",
+						        "singer": "Taylor Swift",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red-text.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=AF5D30CA7702FC16C2516B95EA09B6CEEEEDAB9D86DAACABD0224DE29C3413D971112E02B92D4866730621899791320DBD80F2EF052DAAB2&downloadType=1",
+						        "type": "霉霉 欧美",
+						    	"lyric": ""
+						    }
+						]
+					},
+					{
+						"name":"颤抖吧，骚年！！！",
+						"count":"19",
+						"disc":"听了这么多电音最喜欢的几首",
+						"tips":["电音","纯音乐"],
+						"user":{
+							"name":"云销雨霁why",
+							"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_thankyou.jpg"
+						},
+						"info": [
+							{
+						        "id": "51",
+						        "name": "Autumn (Original Mix)",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_autumn.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F9840C8A05C98AE60AAEE4E019B9C7500AD040EC32F6CD765CDADA74D8CA4A045B3763EA97CC54E17698EE7A24F48CC38F10BB2663F69A47&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+							{
+						        "id": "52",
+						        "name": "Together",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_together.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1A83E5B66CA15C683F62B9371C50AA9B375B3D16B6E6792EA1718A9946F0A2FD9283F617C562679BBB7B4E11BDE8E9FA5CAE924B2B62410D&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+							{
+						        "id": "53",
+						        "name": "Thank You (Original Mix)",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_thankyou.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2EFADD6199E1410D5AFD17D5BFCA716A3CBB8AAE7410ED2916794FF1B2DC749BC03CE4520AA376E48437A034EE6F374014DFE0333FA54881&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "96",
+						        "name": "Fade（LaRry Rong Remix）",
+						        "singer": "LaRry Rong",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_faded-1.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/LaRry%C2%A0Rong%20-%20Fade%EF%BC%88LaRry%20Rong%20Remix%EF%BC%89.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "91",
+						        "name": "Falling",
+						        "singer": "AndyM",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Falling.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2620EE152D0DB5E65A59D2AA00A40D5AE40595CC95176C7F0D3BA69393136AD924126762EEC9AF740BBE67084A1307FA04A232DAAB777034&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "87",
+						        "name": "China-O",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_chinaO.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-O.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "86",
+						        "name": "Summertime",
+						        "singer": "K-391",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Summertime%20.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=20678202B5AF7464997E24138126A23AA15BD25A6B8E536C82430C83A889CFBF65B13D11AB07FD439DC57AAF988CB50FB1A588D7B29FEE48&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "85",
+						        "name": "Disconnected (Original Mix)",
+						        "singer": "Pegboard Nerds",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_disconnected.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=595CCC846D5C8D79CB014A572EE3FBDC19309009CEA1197A096C24A8CB1B477F5F49BB730429BFAC5CE570FD903DDEB00D6F46E300AC8C27&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "54",
+						        "name": "Remember Me (Original Mix)",
+						        "singer": "Kozoro",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_remenberme.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=6C6E29455F5C239DEE26F1F127179466E87D62C0BF14A2380F6CEFDCAB35B76A40F2FAE2AF6013CC1F89DEFCB78996E6200C1C68F93354D8&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "30",
+						        "name": "PneumaticTokyo",
+						        "singer": "EnV",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_PneumaticTokyo.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=94A921C257EDEF794E747EF67C9E5FC9C191F5921DA71862B3EFC4413A3FD09058B856CF68AAEE49A1A2B0B22E8A09DFFC9CD457F9D44AF5&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "28",
+						        "name": "Endless",
+						        "singer": "Natio",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_endless.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4AA16A5E1B7F96C72DBCE1687BC1DE74B8C8B04B672BC1FDD3F59193B56F5CF6090459C510368817E1992A8DA628E507066DC289DFC686D8&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "26",
+						        "name": "Color-X 3D",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_color-3d.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20color-X%203D.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "20",
+						        "name": "China-X",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_china.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-X.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "18",
+						        "name": "China-A",
+						        "singer": "徐梦圆",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_china.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%BE%90%E6%A2%A6%E5%9C%86%20-%20China-A.mp3",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "17",
+						        "name": "Visions",
+						        "singer": "Vief",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_visions1.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=57BEB0B7668F399C75CEF35E584118ADEA46A37A5C2C9FCD2BE853915A9AB0C39580EE846A9C85E34B620C0E044E93D62DA786E3C1131FEA&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "16",
+						        "name": "Visions",
+						        "singer": "Acreix",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_visions.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F37AEAB3F475516D61A2C5EC7BAC685A14AC6BF48A467C87B622AFFA89A8603E4CCA50D69F151983278FEAF64BC0970521ADAB19B08192EC&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "11",
+						        "name": "NCS Style Mix",
+						        "singer": "HOPE-T",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_NCS%C2%A0Style%C2%A0Mix.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=24CDEFF7F7CD78240ED9A30C586C5C469E7169EA45AD35187F49713FE0A5BEF06D1D26AAADA1E433453571D69FF56759D113AD7C3D28158D&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "9",
+						        "name": "Collapsing World(Original Mix)",
+						        "singer": "Lightscape",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Collapsing%20World%20%28Original%20Mix%29.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=8E36BA944B7D97940F8B5F254057E99F45B0C4D7A79B7BD6F7684568ECCE827B15D13501044CCC03965EFDCCC763C3D118384AA66AC58A51&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "3",
+						        "name": "Faded",
+						        "singer": "Alan Walker",
+						        "img_url": "http://www.daiwei.org/index/music/musicImg/Faded.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=56992EB5A3912F9E9E3453DE2C12A57E6F6F3BFC7E42E36F55353126CE45F1DC96692512BFDBCA3C09DC213B4D76B871E9F4EDE87C480AD5&downloadType=1",
+						        "type": "纯音乐 电音",
+						    	"lyric": ""
+						    }
+						]
+					},
+					{
+						"name":"年轻时候追得歌.",
+						"count":"24",
+						"disc":"When I was a boy",
+						"tips":["青春","回忆","感动"],
+						"user":{
+							"name":"duududuu",
+							"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_disconnected.jpg"
+						},
+						"info": [
+						    {
+						        "id": "95",
+						        "name": "青年晚报",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_qingnianwanbao.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95A09918234A557EF3DB6AD0EF5756B77B7BF7B3C32123B06A9261CD93E2D828E23819E2767CC4422EDFEBEB8293EAECD848A02530E1C1C2&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "82",
+						        "name": "灰色头像",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB%E9%9B%BE%E5%90%AF%E4%BA%8B.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%81%B0%E8%89%B2%E5%A4%B4%E5%83%8F.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "81",
+						        "name": "半城烟沙",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "80",
+						        "name": "多余的解释",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%A4%9A%E4%BD%99%E7%9A%84%E8%A7%A3%E9%87%8A.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "79",
+						        "name": "惊鸿一面",
+						        "singer": "许嵩,黄龄",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%8D%E5%A6%82%E5%90%83%E8%8C%B6%E5%8E%BB.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4962389182DD51B8B834197D63DDA26B7907A24C83015411CFE721C0D0C2A3CC5FCD6FB07B413AE01C87C00F4FC728FEDA90A024F642E69A&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "78",
+						        "name": "河山大好",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B2%B3%E5%B1%B1%E5%A4%A7%E5%A5%BD.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "75",
+						        "name": "想象之中",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=1698FEBA38FADA66CB22C0ECC710CDE89AF02D4BBDB8BAE15A2CBB1D5A79A4AC3E3BDD7AD32D8C7E15FF00DBA530FCCC19580726071B2EA3&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "74",
+						        "name": "山水之间",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%8D%E5%A6%82%E5%90%83%E8%8C%B6%E5%8E%BB.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=315152ED8504F988C087698661A2A134F3070B0D7D20F23BFB905F37AA06FE7900A8E8F6A9E7D169B08BCCE12816DE64785C169408D5B42B&downloadType=1",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "73",
+						        "name": "有何不可",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%9C%89%E4%BD%95%E4%B8%8D%E5%8F%AF.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "72",
+						        "name": "清明雨上",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B8%85%E6%98%8E%E9%9B%A8%E4%B8%8A.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "71",
+						        "name": "拆东墙",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%8B%86%E4%B8%9C%E5%A2%99.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "70",
+						        "name": "庐州月",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB%E9%9B%BE%E5%90%AF%E4%BA%8B.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%BA%90%E5%B7%9E%E6%9C%88.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "69",
+						        "name": "幻听",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E6%A2%A6%E6%B8%B8%E8%AE%B0.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%B9%BB%E5%90%AC.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "68",
+						        "name": "千百度",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%83%E7%99%BE%E5%BA%A6.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "67",
+						        "name": "玫瑰花的葬礼",
+						        "singer": "许嵩",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.mp3",
+						        "type": "华语 许嵩",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "36",
+						        "name": "不同",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E4%B8%8D%E5%90%8C.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "35",
+						        "name": "采茶纪",
+						        "singer": "双笙",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E9%87%87%E8%8C%B6%E8%AE%B0.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=96D5CE4255BACD9BB3E8D2C832BB21841BD35026FB80FD192CD411865121B09D720BAA29A781950819C0880CB5D121E7AC70CE079B03FC1E&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "31",
+						        "name": "我以为我可以",
+						        "singer": "郑国锋",
+						        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=490442FDF15504E5FF324BFD569988E4F9CC505ED3291FB9F3248CB1A38B5FA4E1C3C49F0D5DC86F463FF260FE997CB282A04E5A7B29DC11&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "27",
+						        "name": "再见了单纯",
+						        "singer": "小5",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%86%8D%E8%A7%81%E4%BA%86%20%E5%8D%95%E7%BA%AF.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%B0%8F5%20-%20%E5%86%8D%E8%A7%81%E4%BA%86%E5%8D%95%E7%BA%AF.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "25",
+						        "name": "外面的世界",
+						        "singer": "莫文蔚 ",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%8E%AB%E6%96%87%E8%94%9A%20-%20%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "24",
+						        "name": "童话镇",
+						        "singer": "陈一发儿",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%AB%A5%E8%AF%9D%E9%95%87.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%20-%20%E7%AB%A5%E8%AF%9D%E9%95%87.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "19",
+						        "name": "爱与诚",
+						        "singer": "古巨基",
+						        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%88%B1%E4%B8%8E%E8%AF%9A.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=EC04F55E4555ABAE16068213C19B96A2597404878D75A9D5BADC1CA38DD588DB407097C7FA527FF6AC267687D1B65F5F68CC38DF148F5DD3&downloadType=1",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "2",
+						        "name": "你的爱",
+						        "singer": "王力宏",
+						        "img_url": "http://www.daiwei.org/index/music/musicImg/王力宏-你的爱.jpg",
+						        "url": "http://oiq8j9er1.bkt.clouddn.com/王力宏 - 你的爱.mp3",
+						        "type": "华语",
+						    	"lyric": ""
+						    },
+						    {
+						        "id": "1",
+						        "name": "告白气球",
+						        "singer": "周杰伦",
+						        "img_url": "http://www.daiwei.org/index/music/musicImg/周杰伦-告白气球.jpg",
+						        "url": "http://cloud.189.cn/downloadFile.action?fileStr=039B82658E08EB2552B20CE046E7C374ED683B0C1E966C462C42CBFA232323D8873243969006F4541AAAF619E0087CB4ECE46DDBD9ADF862&downloadType=1",
+						        "type": "华语",
+						        "lyric": ""
+						    }
+				    	]
+					}
+				]
+			}
+		]
+    },
+    "findmusic": {
+    	"reconmmend":{
+    		"recommendImageList": [{
+						    		"src": "/static/images/swiper/taylor swift.jpg",
+						    		"type": "首发",
+						    		"color": "#E93D3D",
+						    		"songList":[{
+													"id": "45",
+													"name": "Wildest Dreams",
+													"singer": "Taylor Swift",
+													"img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+													"url": "http://oiq8j9er1.bkt.clouddn.com/Taylor%20Swift%20-%20Wildest%20Dreams.mp3",
+													"type": "霉霉 欧美",
+													"lyric": ""
+												}]
+						    	},
+						    	{
+						    		"src": "/static/images/swiper/linjunjie.jpg",
+						    		"type": "华语",
+						    		"color": "#48A787",
+						    		"songList": [{
+					    							"id": "109",
+											        "name": "一千年以后",
+											        "singer": "林俊杰",
+											        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%A5%B9%E8%AF%B4.jpg",
+											        "url": "http://oiq8j9er1.bkt.clouddn.com/%E6%9E%97%E4%BF%8A%E6%9D%B0%20-%20%E4%B8%80%E5%8D%83%E5%B9%B4%E4%BB%A5%E5%90%8E.mp3",
+											        "type": "华语 林俊杰",
+											    	"lyric": ""
+						    					}]
+						    	},
+						    	{
+						    		"src": "/static/images/swiper/owl city.jpg",
+						    		"type": "欧美",
+						    		"color": "#5994C5",
+						    		"songList": [{
+													"id": "61",
+													"name": "The Technicolor Phase",
+													"singer": "Owl City",
+													"img_url": "http://oiq8j9er1.bkt.clouddn.com/music_owl_city.jpg",
+													"url": "http://cloud.189.cn/downloadFile.action?fileStr=CB9FEC17E9CF9832CEC389C03EBC8EBA7E480BF8701EAEA51931B20D960EE9FA0C9264D05C51BA07513BCE155A7AAB7943691B33AC89CBE1&downloadType=1",
+													"type": "Owl City 欧美",
+													"lyric": ""
+												}]
+						    	},
+						    	{
+						    		"src": "/static/images/swiper/xusong.jpg",
+						    		"type": "热门",
+						    		"color": "#E93D3D",
+						    		"songList": [{
+													"id": "68",
+													"name": "千百度",
+													"singer": "许嵩",
+													"img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+													"url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%83%E7%99%BE%E5%BA%A6.mp3",
+													"type": "华语 许嵩",
+													"lyric": ""
+												}]
+						    	},
+						    	{
+						    		"src": "/static/images/swiper/alan walker.jpg",
+						    		"type": "电音",
+						    		"color": "#DDA15F",
+		    						"songList": [{
+													"id": "3",
+													"name": "Faded",
+													"singer": "Alan Walker",
+													"img_url": "http://www.daiwei.org/index/music/musicImg/Faded.jpg",
+													"url": "http://cloud.189.cn/downloadFile.action?fileStr=56992EB5A3912F9E9E3453DE2C12A57E6F6F3BFC7E42E36F55353126CE45F1DC96692512BFDBCA3C09DC213B4D76B871E9F4EDE87C480AD5&downloadType=1",
+													"type": "纯音乐 电音",
+													"lyric": ""
+												}]
+						    	}],
+    		"recommendMinSheets": [{
+					    			"name":"「华语情歌」想得却不可得,你奈人生何",
+					    			"disc":"歌单推荐:我认识的只有合久分了,没见过分久还能合的...",
+									"count":"5",
+									"listencount":"560978",
+									"showtoptips":true,
+									"toptipsclass":"icon-erji",
+									"showbottomtips":false,
+									"bottomtips":"",
+									"showbottomtitle":true,
+									"bottomtitle":"「华语情歌」想得却不可得,你奈人生何",
+									"padding":"0 2px 2px 0",
+									"listwidth":"33.33333333%",
+									"tips":["华语","爱情"],
+									"user":{
+										"name":"ProdByRachel",
+										"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg"
+									},
+									"info":[	
+												{
+											        "id": "31",
+											        "name": "我以为我可以",
+											        "singer": "郑国锋",
+											        "img_url": "http://cloud.189.cn/downloadFile.action?fileStr=1977E238C23C99537E1188FC2B2B1C3B23CC7F41C29BDEB1FC6247EAAA88E19C3C3739FBB70DC2EB13DD4E1850230000832819F5F04F2EA5&downloadType=1",
+											        "url": "http://cloud.189.cn/downloadFile.action?fileStr=490442FDF15504E5FF324BFD569988E4F9CC505ED3291FB9F3248CB1A38B5FA4E1C3C49F0D5DC86F463FF260FE997CB282A04E5A7B29DC11&downloadType=1",
+											        "type": "华语",
+											    	"lyric": ""
+												},
+												{
+											        "id": "1",
+											        "name": "告白气球",
+											        "singer": "周杰伦",
+											        "img_url": "http://www.daiwei.org/index/music/musicImg/周杰伦-告白气球.jpg",
+											        "url": "http://cloud.189.cn/downloadFile.action?fileStr=039B82658E08EB2552B20CE046E7C374ED683B0C1E966C462C42CBFA232323D8873243969006F4541AAAF619E0087CB4ECE46DDBD9ADF862&downloadType=1",
+											        "type": "华语",
+											        "lyric": ""
+											    },
+												{
+											        "id": "19",
+											        "name": "爱与诚",
+											        "singer": "古巨基",
+											        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%88%B1%E4%B8%8E%E8%AF%9A.jpg",
+											        "url": "http://cloud.189.cn/downloadFile.action?fileStr=EC04F55E4555ABAE16068213C19B96A2597404878D75A9D5BADC1CA38DD588DB407097C7FA527FF6AC267687D1B65F5F68CC38DF148F5DD3&downloadType=1",
+											        "type": "华语",
+											    	"lyric": ""
+											    },
+											    {
+											        "id": "2",
+											        "name": "你的爱",
+											        "singer": "王力宏",
+											        "img_url": "http://www.daiwei.org/index/music/musicImg/王力宏-你的爱.jpg",
+											        "url": "http://oiq8j9er1.bkt.clouddn.com/王力宏 - 你的爱.mp3",
+											        "type": "华语",
+											    	"lyric": ""
+											    },
+											    {
+											        "id": "67",
+											        "name": "玫瑰花的葬礼",
+											        "singer": "许嵩",
+											        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.jpg",
+											        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%9A%84%E8%91%AC%E7%A4%BC.mp3",
+											        "type": "华语 许嵩",
+											    	"lyric": ""
+											    }
+											 ]
+									},
+						    		{
+						    			"name":"自从听了这些音乐，敲代码越开越顺了，腰不酸腿不痛了",
+						    			"disc":"歌单推荐:我认识的只有合久分了,没见过分久还能合的...",
+										"count":"3",
+										"listencount":"219899",
+										"showtoptips":true,
+										"toptipsclass":"icon-erji",
+										"showbottomtips":false,
+										"bottomtips":"",
+										"showbottomtitle":true,
+										"bottomtitle":"自从听了这些音乐，敲代码越开越顺了，腰不酸腿不痛了",
+										"padding":"0 2px 2px 0",
+										"listwidth":"33.33333333%",
+										"tips":["电音","纯音乐"],
+										"user":{
+											"name":"我是张三你信吗",
+											"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_Atmosphere.jpg"
+										},
+										"info":[	 
+													{
+												        "id": "85",
+												        "name": "Disconnected (Original Mix)",
+												        "singer": "Pegboard Nerds",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_disconnected.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=595CCC846D5C8D79CB014A572EE3FBDC19309009CEA1197A096C24A8CB1B477F5F49BB730429BFAC5CE570FD903DDEB00D6F46E300AC8C27&downloadType=1",
+												        "type": "纯音乐 电音",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "84",
+												        "name": "Atmosphere",
+												        "singer": "CelDro",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Atmosphere.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=2959333EB70260D3886F987042680B450276722006EEDB3B060F0863CAB7F7A272DFB489C6735A1ABFE2DC0953CF6B304D63B1FB3E1498C9&downloadType=1",
+												        "type": "纯音乐",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "83",
+												        "name": "Sing Me to Sleep",
+												        "singer": "Alan Walker",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Sing%20Me%20to%20Sleep.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=331669342DC319B6DD34A966F758E7973D753AA925CA78D4DB7AA95B61F3D9AF7BF9E65DA12F6855CA5493AC04B2D43804E97E332721F660&downloadType=1",
+												        "type": "欧美",
+												    	"lyric": ""
+												    }
+												 ]
+						    		},
+						    		{
+						    			"name":"我寻你千百度，日出到迟暮; 一瓢江湖我沉浮",
+						    			"disc":"歌单推荐:我认识的只有合久分了,没见过分久还能合的...",
+										"count":"6",
+										"listencount":"1134",
+										"showtoptips":true,
+										"toptipsclass":"icon-erji",
+										"showbottomtips":false,
+										"bottomtips":"",
+										"showbottomtitle":true,
+										"bottomtitle":"我寻你千百度，日出到迟暮; 一瓢江湖我沉浮",
+										"padding":"0 0px 2px 0",
+										"listwidth":"33.33333333%",
+										"tips":["华语","许嵩"],
+										"user":{
+											"name":"ProdByRachel",
+											"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg"
+										},
+										"info":[	
+													{
+												        "id": "82",
+												        "name": "灰色头像",
+												        "singer": "许嵩",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%AF%BB%E9%9B%BE%E5%90%AF%E4%BA%8B.jpg",
+												        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E7%81%B0%E8%89%B2%E5%A4%B4%E5%83%8F.mp3",
+												        "type": "华语 许嵩",
+												    	"lyric": ""
+												    },
+													{
+												        "id": "95",
+												        "name": "青年晚报",
+												        "singer": "许嵩",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_qingnianwanbao.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=95A09918234A557EF3DB6AD0EF5756B77B7BF7B3C32123B06A9261CD93E2D828E23819E2767CC4422EDFEBEB8293EAECD848A02530E1C1C2&downloadType=1",
+												        "type": "华语 许嵩",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "81",
+												        "name": "半城烟沙",
+												        "singer": "许嵩",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.jpg",
+												        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%8D%8A%E5%9F%8E%E7%83%9F%E6%B2%99.mp3",
+												        "type": "华语 许嵩",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "80",
+												        "name": "多余的解释",
+												        "singer": "许嵩",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%87%AA%E5%AE%9A%E4%B9%89.jpg",
+												        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E5%A4%9A%E4%BD%99%E7%9A%84%E8%A7%A3%E9%87%8A.mp3",
+												        "type": "华语 许嵩",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "79",
+												        "name": "惊鸿一面",
+												        "singer": "许嵩,黄龄",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E4%B8%8D%E5%A6%82%E5%90%83%E8%8C%B6%E5%8E%BB.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=4962389182DD51B8B834197D63DDA26B7907A24C83015411CFE721C0D0C2A3CC5FCD6FB07B413AE01C87C00F4FC728FEDA90A024F642E69A&downloadType=1",
+												        "type": "华语 许嵩",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "78",
+												        "name": "河山大好",
+												        "singer": "许嵩",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E8%8B%8F%E6%A0%BC%E6%8B%89%E6%B2%A1%E6%9C%89%E5%BA%95.jpg",
+												        "url": "http://oiq8j9er1.bkt.clouddn.com/%E8%AE%B8%E5%B5%A9%20-%20%E6%B2%B3%E5%B1%B1%E5%A4%A7%E5%A5%BD.mp3",
+												        "type": "华语 许嵩",
+												    	"lyric": ""
+												    }
+												 ]
+						    		},
+						    		{
+						    			"name":"Say you'll remember me Standing in a nice dress, staring at the sun set, babe",
+						    			"disc":"歌单推荐:我认识的只有合久分了,没见过分久还能合的...",
+										"count":"5",
+										"listencount":"20000",
+										"showtoptips":true,
+										"toptipsclass":"icon-erji",
+										"showbottomtips":false,
+										"bottomtips":"",
+										"showbottomtitle":true,
+										"bottomtitle":"Say you'll remember me Standing in a nice dress, staring at the sun set, babe",
+										"padding":"0 2px 2px 0",
+										"listwidth":"33.33333333%",
+										"tips":["霉霉"],
+										"user":{
+											"name":"ProdByRachel",
+											"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg"
+										},
+										"info":[	
+													{
+												        "id": "45",
+												        "name": "Wildest Dreams",
+												        "singer": "Taylor Swift",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+												        "url": "http://oiq8j9er1.bkt.clouddn.com/Taylor%20Swift%20-%20Wildest%20Dreams.mp3",
+												        "type": "霉霉 欧美",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "44",
+												        "name": "Style",
+												        "singer": "Taylor Swift",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=220DEFFDAFEE5CFEA093F4BF05216E1EACCFEA5ABF2A7967688545AD70C74BC5F9193259AB61EA5874293DAE9490ADA78B8B800E342CD9ED&downloadType=1",
+												        "type": "霉霉 欧美",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "43",
+												        "name": "Out Of The Woods",
+												        "singer": "Taylor Swift",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=F6D51186753242FE42DB8CD6C00C17E9F29CF585A1ADA23680597B657DFF010C83610B4C779A55746CA713FD8FC271957BD775F929687BDC&downloadType=1",
+												        "type": "霉霉 欧美",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "42",
+												        "name": "New Romantics",
+												        "singer": "Taylor Swift",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=CF714DCEF25812AFCDA731735E47B4456DCB63C6079D5537A0B32BBB1662EA965B7F5665529CDCE8521A7FE8775B644927C464B4696F56F9&downloadType=1",
+												        "type": "霉霉 欧美",
+												    	"lyric": ""
+												    }
+												 ]
+						    		},
+						    		{
+						    			"name":"躺在绿茵茵的草地上看着天空",
+						    			"disc":"歌单推荐:我认识的只有合久分了,没见过分久还能合的...",
+										"count":"5",
+										"listencount":"33209",
+										"showtoptips":true,
+										"toptipsclass":"icon-erji",
+										"showbottomtips":false,
+										"bottomtips":"",
+										"showbottomtitle":true,
+										"bottomtitle":"躺在绿茵茵的草地上看着天空",
+										"padding":"0 2px 2px 0",
+										"listwidth":"33.33333333%",
+										"tips":["欧美"],
+										"user":{
+											"name":"ProdByRachel",
+											"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg"
+										},
+										"info":[	
+													{
+												        "id": "32",
+												        "name": "Leave Out All The Rest",
+												        "singer": "Linkin Park",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Leave%20Out%20All%20The%20Rest.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=63E557E92E5D942320CB7025CBFF8632CAEF1E874E8FBC7DE22307A65EDE7C902DA3BDCF18DA01DB1F452808FF2131B6766D2713940F31A5&downloadType=1",
+												        "type": "欧美",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "29",
+												        "name": "Think Again",
+												        "singer": "Kate Havnevik",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_Think%20Again.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=90945B3777B3425860A8BE3A8F38D1A1AE25EE4FDA3D077B53D8330A6885DCCEE1CFC2AFB70B40AA61C921417130278A381F1169554B3C54&downloadType=1",
+												        "type": "欧美",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "8",
+												        "name": "Red",
+												        "singer": "Taylor Swift",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=87AB6F46E3CE05027CB197A8EC903DFFB959E093631C8D83797DB78AD7900B65DDB3CA5EBE676AE9139DB17534B7D48B6D09DDFFAA896498&downloadType=1",
+												        "type": "霉霉 欧美",
+												    	"lyric": ""
+												    },
+												    {
+												        "id": "7",
+												        "name": "Blank Space",
+												        "singer": "Taylor Swift",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_1989.jpg",
+												        "url": "http://cloud.189.cn/downloadFile.action?fileStr=B7837467654B200A6DAB33453EFC5260E835D8786CBC86FA294BE47CF871008D115AF5593AA3BDE23F1AF267CBD2AD656204838B0B7A7F15&downloadType=1",
+												        "type": "霉霉 欧美",
+												    	"lyric": ""
+												    }
+												 ]
+						    		},
+						    		{
+						    			"name":"时代を越えた少女と 封印された少年",
+						    			"disc":"歌单推荐:我认识的只有合久分了,没见过分久还能合的...",
+										"count":"5",
+										"listencount":"555",
+										"showtoptips":true,
+										"toptipsclass":"icon-erji",
+										"showbottomtips":false,
+										"bottomtips":"",
+										"showbottomtitle":true,
+										"bottomtitle":"时代を越えた少女と 封印された少年",
+										"padding":"0 0 2px 2px",
+										"listwidth":"33.33333333%",
+										"tips":["动漫","纯音乐"],
+										"user":{
+											"name":"ProdByRachel",
+											"avatar": "http://oiq8j9er1.bkt.clouddn.com/music_red.jpg"
+										},
+										"info":[	
+													{
+												        "id": "66",
+												        "name": "ふたりの気持ち",
+												        "singer": "和田薫",
+												        "img_url": "http://oiq8j9er1.bkt.clouddn.com/music_%E7%8A%AC%E5%A4%9C%E5%8F%89.jpg",
+												        "url": "http://oiq8j9er1.bkt.clouddn.com/%E5%92%8C%E7%94%B0%E8%96%AB%20-%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1.mp3",
+												        "type": "纯音乐",
+												    	"lyric": ""
+												    }
+												 ]
+						    		}]
+    	}
+    }
+}

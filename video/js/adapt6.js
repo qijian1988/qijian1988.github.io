@@ -21,7 +21,7 @@ function getSize() {// 获取屏幕的宽度
             }
             return parseInt(myWidth);
         })(); 
-  docEl.style.fontSize = screenWidth / (750 / 40) + 'px';
+  docEl.style.fontSize = screenWidth / (1242 / 40) + 'px';
 }
 getSize();// 页面加载完执行一次
 window.onresize = function() {

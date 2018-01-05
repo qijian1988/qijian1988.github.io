@@ -1,5 +1,6 @@
 'use strict'
 const path = require('path')
+const webpack = require('webpack')
 const utils = require('./utils')
 const config = require('../config')
 const vueLoaderConfig = require('./vue-loader.conf')
@@ -36,6 +37,8 @@ module.exports = {
     alias: {
       'vue$': 'vue/dist/vue.esm.js',
       '@': resolve('src'),
+      'assets': resolve('src/assets'),
+      'util':resolve('src/util'),
       'components': resolve('src/components')
     }
   },
@@ -78,6 +81,13 @@ module.exports = {
       }
     ]
   },
+  plugins: [
+    new webpack.LoaderOptionsPlugin({
+      vue: {
+        postcss: [require('postcss-pxtorem')({rootValue: 40, propWhiteList: []})]
+      }
+    })
+  ],
   node: {
     // prevent webpack from injecting useless setImmediate polyfill because Vue
     // source contains it (although only uses it if it's native).

@@ -242,15 +242,16 @@
             setTimeout(function () {
                 var width = document.documentElement.clientWidth;
                 var height = document.documentElement.clientHeight;
+                console.log('width--' + width + ': height--' + height)
                 $print = $('video');
-                if (width > height) {
+                if (!fixedLandcase) {
                     $print.width(width);
                     $print.height(height);
                     $print.css('top', 0);
                     $print.css('left', 0);
                     $print.css('transform', 'none');
                     $print.css('transform-origin', '50% 50%');
-                } else if (fixedLandcase) {
+                } else {
                     $print.width(height);
                     $print.height(width);
                     $print.css('top', (height - width) / 2);

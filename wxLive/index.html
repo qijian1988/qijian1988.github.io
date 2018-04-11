@@ -194,6 +194,7 @@
         var oScroll = document.getElementById("scroll");
         var iWindowWidth;
         var iWindowHeight;
+        var fixedLandcase  = false
 
         // function resize() {
         //     //获取可视区宽度
@@ -216,9 +217,9 @@
         //     vScrollbar: false,
         //     bounce: false
         // });
-        window.addEventListener('touchmove', function (e) {
-            e.preventDefault();
-        }, false);
+        // window.addEventListener('touchmove', function (e) {
+        //     e.preventDefault();
+        // }, false);
 
         // function autoWH() {
         //     //获取可视区宽度
@@ -249,7 +250,7 @@
                     $print.css('left', 0);
                     $print.css('transform', 'none');
                     $print.css('transform-origin', '50% 50%');
-                } else {
+                } else if (fixedLandcase) {
                     $print.width(height);
                     $print.height(width);
                     $print.css('top', (height - width) / 2);
@@ -262,6 +263,7 @@
         //全屏操作
         $('#fullCreenBtn').on('touchend', function (e) {
             e.preventDefault();
+            fixedLandcase = true
             boxChange();
         });
         // function exitFullScreen () {

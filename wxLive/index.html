@@ -26,7 +26,11 @@
             position: absolute;
             top: 250px;
             left: 50px;
-            z-index: 100;
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            text-align: center;
+            z-index: 1000;
         }
 
         #scroll {
@@ -93,7 +97,7 @@
         </video>
     </div>
     <button id="fullCreenBtn">全屏</button>
-    <div id="scrollBox">
+    <!-- <div id="scrollBox">
         <div id="content" class="aui-content aui-margin-b-15">
             <ul id="infoList" class="aui-list aui-list-in">
                 <li class="aui-list-item">
@@ -159,7 +163,7 @@
                 </li>
             </ul>
         </div>
-    </div>
+    </div> -->
     <script src="js/iscroll.js"></script>
     <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
     <script>
@@ -176,20 +180,26 @@
         var oScroll = document.getElementById("scroll");
         var iWindowWidth;
         var iWindowHeight;
-        window.onresize = function () {
-            autoWH();
+        function resize() {
+            //获取可视区宽度
+            iWindowWidth = window.innerWidth;
+            //获取可视区高度
+            iWindowHeight = window.innerHeight;
             myPlayer.style.width = iWindowWidth + "px";
             myPlayer.style.height = iWindowHeight + "px";
+        }
+        window.onresize = function () {
+            resize()
         }
         //图片加载完
         oPoster.onload = function () {
             oVideoBox.style.height = oPoster.offsetHeight + "px";
         }
-        var fScroll = new iScroll(oScrollBox, {
-            hScrollbar: false,
-            vScrollbar: false,
-            bounce: false
-        });
+        // var fScroll = new iScroll(oScrollBox, {
+        //     hScrollbar: false,
+        //     vScrollbar: false,
+        //     bounce: false
+        // });
         window.addEventListener('touchmove', function (e) {
             e.preventDefault();
         }, false);
@@ -204,16 +214,17 @@
             oScrollBox.style.height = iWindowHeight - iScrollH + "px";
             fScroll.refresh();
         }
-        autoWH();
+        // autoWH();
 
         //全屏操作
         $('#fullCreenBtn').on('touchend', function (e) {
             e.preventDefault();
-            if ($.isFunction(myPlayer.webkitEnterFullscreen)) {
-                myPlayer.webkitEnterFullscreen();
-            } else {
-                alert('Your browsers doesn\'t support fullscreen');
-            }
+            // if ($.isFunction(myPlayer.webkitEnterFullscreen)) {
+            //     myPlayer.webkitEnterFullscreen();
+            // } else {
+            //     alert('Your browsers doesn\'t support fullscreen');
+            // }
+            resize()
         });
         // myPlayer.addEventListener('webkitendfullscreen', function () {
         //     Live.pausedState()
@@ -226,7 +237,7 @@
 
         //监听播放
         myPlayer.addEventListener('play', function () {
-            alert("播放");
+            // alert("播放");
 
         }, false);
         //监听暂停

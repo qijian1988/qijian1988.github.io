@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
     <!-- <link rel="stylesheet" href="http://wx.shixuewen.com/h5/css/aui.2.0.css"/> -->
     <style>
-        html,body{
+        html,
+        body {
             margin: 0;
             padding: 0;
             width: 100%;
@@ -22,7 +23,7 @@
             width: 100%;
         }
 
-        #fullCreenBtn{
+        #fullCreenBtn {
             position: absolute;
             top: 250px;
             left: 50px;
@@ -45,11 +46,25 @@
             border-top: 1px solid #ccc;
         }
 
-        video {
-            object-position: 0px 0px;
-            width: 100%;
-            object-fit: fill;
+        @media screen and (orientation: portrait) {
+            video {
+                position: absolute;
+                /* object-position: 0px 0px; */
+                width: 100%;
+                height: 310px;
+            }
         }
+
+        @media screen and (orientation: landscape) {
+            video {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+        }
+
 
         #videoBox {
             position: relative;
@@ -181,18 +196,19 @@
         var oScroll = document.getElementById("scroll");
         var iWindowWidth;
         var iWindowHeight;
-        function resize() {
-            //获取可视区宽度
-            iWindowWidth = window.innerWidth;
-            //获取可视区高度
-            iWindowHeight = window.innerHeight;
-            myPlayer.style.width = iWindowWidth + "px";
-            myPlayer.style.height = iWindowHeight + "px";
-        }
-        window.onresize = function () {
-            resize()
-        }
-        //图片加载完
+
+        // function resize() {
+        //     //获取可视区宽度
+        //     iWindowWidth = window.innerWidth;
+        //     //获取可视区高度
+        //     iWindowHeight = window.innerHeight;
+        //     myPlayer.style.width = iWindowWidth + "px";
+        //     myPlayer.style.height = iWindowHeight + "px";
+        // }
+        // window.onresize = function () {
+        //     resize()
+        // }
+        // //图片加载完
         oPoster.onload = function () {
             oVideoBox.style.height = oPoster.offsetHeight + "px";
         }
@@ -205,31 +221,48 @@
             e.preventDefault();
         }, false);
 
-        function autoWH() {
-            //获取可视区宽度
-            iWindowWidth = window.innerWidth;
-            //获取可视区高度
-            iWindowHeight = window.innerHeight;
-            var iScrollH = 3 * iWindowWidth / 4;
-            oScrollBox.style.top = iScrollH + "px";
-            oScrollBox.style.height = iWindowHeight - iScrollH + "px";
-            fScroll.refresh();
-        }
+        // function autoWH() {
+        //     //获取可视区宽度
+        //     iWindowWidth = window.innerWidth;
+        //     //获取可视区高度
+        //     iWindowHeight = window.innerHeight;
+        //     var iScrollH = 3 * iWindowWidth / 4;
+        //     oScrollBox.style.top = iScrollH + "px";
+        //     oScrollBox.style.height = iWindowHeight - iScrollH + "px";
+        //     fScroll.refresh();
+        // }
         // autoWH();
+        var evt = "onorientationchange" in window ? "orientationchange" : "resize";
+        window.addEventListener(evt, function () {
+            boxChange()
+        }, false);
+
+        function boxChange() {
+            var width = document.documentElement.clientWidth;
+            var height = document.documentElement.clientHeight;
+            $print = $('video');
+            if (width > height) {
+                $print.width(width);
+                $print.height(height);
+                $print.css('top', 0);
+                $print.css('left', 0);
+                $print.css('transform', 'none');
+                $print.css('transform-origin', '50% 50%');
+            } else {
+                $print.width(height);
+                $print.height(width);
+                $print.css('top', (height - width) / 2);
+                $print.css('left', 0 - (height - width) / 2);
+                $print.css('transform', 'rotate(90deg)');
+                $print.css('transform-origin', '50% 50%');
+            }
+        }
 
         //全屏操作
         $('#fullCreenBtn').on('touchend', function (e) {
             e.preventDefault();
-            // if ($.isFunction(myPlayer.webkitEnterFullscreen)) {
-            //     myPlayer.webkitEnterFullscreen();
-            // } else {
-            //     alert('Your browsers doesn\'t support fullscreen');
-            // }
-            resize()
+            boxChange();
         });
-        // myPlayer.addEventListener('webkitendfullscreen', function () {
-        //     Live.pausedState()
-        // }, false);
         //播放按钮呗点击
         oPlayBtn.onclick = function () {
             myPlayer.play();

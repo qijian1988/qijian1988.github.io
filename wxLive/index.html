@@ -7,9 +7,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
     <!-- <link rel="stylesheet" href="http://wx.shixuewen.com/h5/css/aui.2.0.css"/> -->
     <style>
-        * {
+        html,body{
             margin: 0;
             padding: 0;
+            width: 100%;
+            height: 100%;
         }
 
         #scrollBox {
@@ -85,7 +87,7 @@
         <img id="poster" src="images/player.jpg" alt="">
         <!--<video id="videoBox" controls preload="auto" poster="images/tempPoster.jpg" x5-video-player-type="h5" x5-video-player-fullscreen="true">-->
         <video id="videoLive" preload="auto" poster="" x5-video-player-type="h5" x5-video-player-fullscreen="true" webkit-playsinline="true"
-            x-webkit-airplay="true" playsinline="true" style="width: 100%; height: 100%;">
+            x-webkit-airplay="true" playsinline="true">
             <!--<source src="http://221.208.196.19:8080/hls/stream1.m3u8" type="application/x-mpegURL">-->
             <source src="./Sofia.mp4">
         </video>
@@ -161,13 +163,6 @@
     <script src="js/iscroll.js"></script>
     <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
     <script>
-        var iWindowWidth;
-        var iWindowHeight;
-        window.onresize = function () {
-            autoWH();
-            myPlayer.style.width = iWindowWidth + "px";
-            myPlayer.style.height = iWindowHeight + "px";
-        }
         //获取videojs生成的video
         var myPlayer = document.getElementById("videoLive");
         //播放按钮
@@ -179,6 +174,13 @@
         //遮罩图片
         var oPoster = document.getElementById("poster");
         var oScroll = document.getElementById("scroll");
+        var iWindowWidth;
+        var iWindowHeight;
+        window.onresize = function () {
+            autoWH();
+            myPlayer.style.width = iWindowWidth + "px";
+            myPlayer.style.height = iWindowHeight + "px";
+        }
         //图片加载完
         oPoster.onload = function () {
             oVideoBox.style.height = oPoster.offsetHeight + "px";

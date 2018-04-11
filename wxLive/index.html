@@ -72,16 +72,11 @@
 
         #playBtn {
             position: absolute;
-            left: 0;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            display: block;
-            border: none;
-            background: url("images/playBtn.png") center no-repeat;
+            left: 80px;
+            top: 120px;
+            width: 80px;
+            height: 80px;
             z-index: 1000;
-            width: 100%;
-            background-size: 100px;
         }
 
         #poster {
@@ -103,7 +98,6 @@
     <!--<div id="title" class="aui-title">视频直播</div>-->
     <!--</header>-->
     <div id="videoBox">
-        <input id="playBtn" type="button" value="">
         <img id="poster" src="images/player.jpg" alt="">
         <!--<video id="videoBox" controls preload="auto" poster="images/tempPoster.jpg" x5-video-player-type="h5" x5-video-player-fullscreen="true">-->
         <video id="videoLive" preload="auto" poster="" x5-video-player-type="h5" x5-video-player-fullscreen="true" webkit-playsinline="true"
@@ -113,6 +107,7 @@
         </video>
     </div>
     <button id="fullCreenBtn">全屏</button>
+    <img src="./images/playBtn.png" alt="" id="playBtn">  
     <!-- <div id="scrollBox">
         <div id="content" class="aui-content aui-margin-b-15">
             <ul id="infoList" class="aui-list aui-list-in">
@@ -209,9 +204,10 @@
         //     resize()
         // }
         // //图片加载完
-        oPoster.onload = function () {
-            oVideoBox.style.height = oPoster.offsetHeight + "px";
-        }
+        // oPoster.onload = function () {
+        //     console.log(oPoster.offsetHeight)
+        //     oVideoBox.style.height = oPoster.offsetHeight + "px";
+        // }
         // var fScroll = new iScroll(oScrollBox, {
         //     hScrollbar: false,
         //     vScrollbar: false,
@@ -263,6 +259,9 @@
             e.preventDefault();
             boxChange();
         });
+        // function exitFullScreen () {
+
+        // }
         //播放按钮呗点击
         oPlayBtn.onclick = function () {
             myPlayer.play();

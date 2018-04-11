@@ -20,6 +20,13 @@
             width: 100%;
         }
 
+        #fullCreenBtn{
+            position: absolute;
+            top: 250px;
+            left: 50px;
+            z-index: 100;
+        }
+
         #scroll {
             overflow: hidden;
             margin-top: -1px;
@@ -78,7 +85,7 @@
         <img id="poster" src="images/player.jpg" alt="">
         <!--<video id="videoBox" controls preload="auto" poster="images/tempPoster.jpg" x5-video-player-type="h5" x5-video-player-fullscreen="true">-->
         <video id="videoLive" preload="auto" poster="" x5-video-player-type="h5" x5-video-player-fullscreen="true" webkit-playsinline="true"
-            x-webkit-airplay="true" playsinline="true">
+            x-webkit-airplay="true" playsinline="true" style="object-fit: fill; width: 100%; height: 100%;">
             <!--<source src="http://221.208.196.19:8080/hls/stream1.m3u8" type="application/x-mpegURL">-->
             <source src="./Sofia.mp4">
         </video>

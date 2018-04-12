@@ -196,42 +196,6 @@
         var iWindowHeight;
         var fixedLandcase = false
 
-        // function resize() {
-        //     //获取可视区宽度
-        //     iWindowWidth = window.innerWidth;
-        //     //获取可视区高度
-        //     iWindowHeight = window.innerHeight;
-        //     myPlayer.style.width = iWindowWidth + "px";
-        //     myPlayer.style.height = iWindowHeight + "px";
-        // }
-        // window.onresize = function () {
-        //     resize()
-        // }
-        // //图片加载完
-        // oPoster.onload = function () {
-        //     console.log(oPoster.offsetHeight)
-        //     oVideoBox.style.height = oPoster.offsetHeight + "px";
-        // }
-        // var fScroll = new iScroll(oScrollBox, {
-        //     hScrollbar: false,
-        //     vScrollbar: false,
-        //     bounce: false
-        // });
-        // window.addEventListener('touchmove', function (e) {
-        //     e.preventDefault();
-        // }, false);
-
-        // function autoWH() {
-        //     //获取可视区宽度
-        //     iWindowWidth = window.innerWidth;
-        //     //获取可视区高度
-        //     iWindowHeight = window.innerHeight;
-        //     var iScrollH = 3 * iWindowWidth / 4;
-        //     oScrollBox.style.top = iScrollH + "px";
-        //     oScrollBox.style.height = iWindowHeight - iScrollH + "px";
-        //     fScroll.refresh();
-        // }
-        // autoWH();
         var evt = "onorientationchange" in window ? "orientationchange" : "resize";
         window.addEventListener(evt, function () {
             console.log(evt)
@@ -283,6 +247,7 @@
         // }
         //播放按钮呗点击
         oPlayBtn.onclick = function () {
+            boxChange();
             myPlayer.play();
             this.style.display = oPoster.style.display = "none";
         }
